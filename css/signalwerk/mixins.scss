@@ -1,0 +1,124 @@
+// usage: @include font;
+// check https://google-webfonts-helper.herokuapp.com/
+@mixin fontdef($fontPath, $fontVersion:"1.0.0") {
+  src:  url('#{$fontPath}.eot?v=#{$fontVersion}');
+  src:  url('#{$fontPath}.eot?#iefix&v=#{$fontVersion}') format('embedded-opentype'),
+  url('#{$fontPath}.woff2?v=#{$fontVersion}') format('woff2'),
+  url('#{$fontPath}.woff?v=#{$fontVersion}') format('woff')
+}
+
+@mixin font($font:sans) {
+  font-family: map-get($font-family, $font);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@mixin font-bold($font:sans) {
+  font-family: map-get($font-family, $font);
+  font-weight: map-get($font-weight-bold, $font);
+}
+
+@mixin fontUppercase {
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+}
+
+@mixin grid-column-gradient($values...) {
+  background-image: linear-gradient(to right, #{$values});
+}
+
+
+@function gradient-stops($grid-columns) {
+  $transparent: rgba(0,0,0,0);
+  $color: rgba(255,0,0,0.07);
+
+  $column-offset: 0;
+
+  $values: ($color 0);
+
+  @for $i from 1 through $grid-columns {
+
+    @if $i != $grid-columns  {
+      $column-offset: $column-offset + span(1);
+      $values: append($values, $color $column-offset, comma);
+      $values: append($values, $transparent $column-offset, comma);
+      $column-offset: $column-offset + gutter();
+      $values: append($values, $transparent $column-offset, comma);
+      $values: append($values, $color $column-offset, comma);
+    } @else {
+      $column-offset: $column-offset + span(1);
+      $values: append($values, $color $column-offset, comma);
+      $values: append($values, $transparent $column-offset, comma);
+    }
+  }
+
+  @return $values;
+}
+
+
+
+@mixin clearfix() {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+@mixin shContainer($arg...) {
+
+  @include container($arg);
+
+  @if $debug == true {
+    @include grid-column-gradient(gradient-stops(12));
+    background-size: span(last 12);
+  }
+}
+
+
+
+
+
+// ==================================================
+// $Variables
+// ==================================================
+// Supports
+// @media min-width
+// @media max-width
+// @media min-width and max-width
+$viewport-increment: 0.1px; // customize to suite
+
+
+// Wide-Desktop
+$wide-desktop: 1240px; // customize to suite
+$pre-wide-desktop: $wide-desktop - $viewport-increment;
+
+// Desktop
+$desktop: 1024px; // customize to suite
+$pre-desktop: $desktop - $viewport-increment;
+// Tablet
+$tablet: 768px; // customize to suite
+$pre-tablet: $tablet - $viewport-increment;
+// mobile
+$mobile: 560px; // customize to suite
+$post-mobile: $mobile + $viewport-increment;
+// Constraints
+$min: min-width;
+$max: max-width;
+@mixin mediaQuery($constraint, $viewport1, $viewport2: null) {
+     @if $constraint == $min{
+        @media screen and ($min: $viewport1) {
+             @content;
+        }
+    }
+    @else if $constraint == $max {
+         @media screen and ($max: $viewport1){
+            @content;
+        }
+    }
+    @else {
+         @media screen and ($min: $viewport1) and ($max: $viewport2){
+            @content;
+        }
+    }
+}

@@ -1,0 +1,266 @@
+.footer {
+  display: none;
+}
+.header {
+  display: block;
+  height: 2rem;
+}
+
+@media screen {
+  .printonly_ {
+    display: none;
+  }
+}
+
+@media print {
+  .screenonly {
+    display: none;
+  }
+}
+
+@media print {
+html {
+  .hljs {
+    color: #000;
+  }
+
+  .hljs-comment,
+  .hljs-quote,
+  .hljs-meta {
+    color: #000;
+  }
+
+  .hljs-keyword,
+  .hljs-selector-tag,
+  .hljs-tag,
+  .hljs-name {
+    color: #000;
+  }
+
+  .hljs-attribute,
+  .hljs-tag .hljs-attr,
+  .hljs-selector-id {
+    color: #000;
+  }
+
+  .hljs-string,
+  .hljs-selector-attr,
+  .hljs-selector-pseudo,
+  .hljs-addition {
+    color: #000;
+  }
+
+  .hljs-subst {
+    color: #000;
+  }
+
+  .hljs-regexp,
+  .hljs-link {
+    color: #000;
+  }
+
+  .hljs-title,
+  .hljs-section,
+  .hljs-type,
+  .hljs-doctag {
+    color: #000;
+  }
+
+  .hljs-symbol,
+  .hljs-bullet,
+  .hljs-variable,
+  .hljs-template-variable,
+  .hljs-literal {
+    color: #000;
+  }
+
+  .hljs-number,
+  .hljs-deletion {
+    color: #000;
+  }
+}
+
+
+  @page {
+      size: A4;
+      margin-top: 5mm;
+      margin-left: 25mm;
+      margin-bottom: 7mm;
+      margin-right: 10mm;
+  }
+
+  .headroom-wrapper {
+    display: none;
+  }
+
+  * {
+      // background: transparent !important;
+      // color: #000 !important; /* Black prints faster: h5bp.com/s */
+      // box-shadow: none !important;
+      // text-shadow: none !important;
+  }
+
+
+  .header {
+    display: block;
+    page-break-before: always;
+    counter-increment: page;
+
+    right: 0;
+    top: 0;
+    width: 100%;
+    height: 1.5rem;
+
+    border-bottom: 0.1rem solid black;
+    margin-bottom: 3.5rem;
+
+    &:after {
+        display: inline-block;
+        font-size: map-get($fontSizesPrint, small) * .9;
+        padding-top: 0.4em;
+        content: "Web · Stefan Huber · 2017 · CC BY-SA 4.0";
+        float: left;
+        white-space: nowrap;
+        text-align: left;
+        position: absolute;
+    }
+    &:before {
+        display: inline-block;
+        padding-top: 0.0em;
+        content: counter(page);
+        content: " " counter(page);
+        float: right;
+        white-space: nowrap;
+    }
+  }
+
+  .footer {
+    display: block;
+    position: fixed;
+    bottom: 0;
+    width: 66.66%;
+    right: 0;
+    padding-top: 0.4em;
+    border-top: 0.1rem solid black;
+    font-size: map-get($fontSizesPrint, small) * .9;
+  }
+
+}
+
+/*
+
+@media print,
+       (-o-min-device-pixel-ratio: 5/4),
+       (-webkit-min-device-pixel-ratio: 1.25),
+       (min-resolution: 120dpi) {
+
+}
+
+
+
+
+
+*/
+//
+//
+// @media print {
+//
+//     //
+//     // h1 {
+//     //     font-size: 13.5pt;
+//     // }
+//     //
+//     // h2 {
+//     //     font-size: 11.7pt;
+//     // }
+//     //
+//     // h3 {
+//     //     font-size: 9pt;
+//     // }
+//
+//
+//
+//
+//
+//     abbr[title]:after {
+//         content: " (" attr(title) ")";
+//     }
+//
+//
+//     /* css 4 selector with $ */
+//     /*
+//     .fig $a[href]:after > img, .fig a:before > img {
+//         content: "";
+//     }
+//     */
+//
+//     .fig a[href]:after {
+//         content: "";
+//     }
+//
+//     /*
+//      * Don't show links for images, or javascript/internal links
+//      */
+//
+//     .ir a:after,
+//     a[href^="javascript:"]:after,
+//     a[href^="#"]:after {
+//         content: "";
+//     }
+//
+//     pre,
+//     blockquote {
+//         border: 1px solid #999;
+//         page-break-inside: avoid;
+//     }
+//
+//     thead {
+//         display: table-header-group; /* h5bp.com/t */
+//     }
+//
+//
+//
+//     img {
+//         max-width: 100% !important;
+//     }
+//
+//
+//     p,
+//     h2,
+//     h3 {
+//         orphans: 3;
+//         widows: 3;
+//     }
+//
+//      /* not working at all in chrome ... fml */
+//
+// 	h1,
+//     h2,
+//     h3 {
+//         page-break-after: avoid;
+//         page-break-inside: avoid;
+//     }
+//
+//      /* chrome bug */
+//      /* http://stackoverflow.com/questions/1630819/google-chrome-printing-page-breaks */
+//     .markdown > div,
+//     h1,
+//     h2,
+//     h3 {
+//     	display: block;
+//     	position: relative;
+//     }
+//
+//     li {
+//     	page-break-inside: avoid;
+//     }
+//
+//
+//
+// 	h1 + p, h2 + p, h3 + p {
+// 		page-break-before: avoid;
+// 	}
+//
+//
+//
+// }

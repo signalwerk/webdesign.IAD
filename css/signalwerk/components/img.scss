@@ -1,0 +1,31 @@
+
+img {
+    max-width: 100%;
+    height: auto;
+
+    @media print {
+      page-break-inside: avoid;
+    }
+}
+
+.upscale {
+  img {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+
+.imageline {
+  border: 0.1rem solid black;
+  box-sizing: border-box;
+  p {
+    margin: 0;
+    padding: 0;
+  }
+  img {
+    display: block;
+    margin: 0;
+    padding: 0;
+  }
+}

@@ -1,0 +1,33 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+th {
+  text-align: left;
+}
+
+tr {
+   border-bottom: 0.12rem solid #ccc;
+   @media print {
+     page-break-inside: avoid;
+   }
+}
+
+td, th {
+  vertical-align: top;
+  img {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+}
+
+
+table {
+
+    .w_33p {
+      width: 33.33%;
+    }
+
+}

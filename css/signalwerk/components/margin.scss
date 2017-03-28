@@ -1,0 +1,13 @@
+.margin {
+  font-size: map-get($fontFactors, p) * .85;
+  @media print {
+    font-size: map-get($fontSizesPrint, p) * .85;
+  }
+  
+  p, ul, ol, h1, h2, h3, h4, th, td {
+      font-size: map-get($fontFactors, p) * .85;
+      @media print {
+        font-size: map-get($fontSizesPrint, p) * .85;
+      }
+  }
+}

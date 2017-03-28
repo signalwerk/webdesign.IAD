@@ -1,0 +1,23 @@
+// body {
+//   counter-reset: figures heading1 tocHeading1;
+// }
+//
+// h2 {
+//   counter-increment: heading1;
+// }
+// h2:before {
+// 	content: counter(heading1) '. ';
+// }
+//
+//
+//
+// .table-of-contents a:before {
+//   counter-increment: tocHeading1;
+//   content: counter(tocHeading1) '. ';
+// }
+//
+//
+// .fig em:before {
+//   counter-increment: figures;
+// 	content: 'Fig. ' counter(figures) ' - ';
+// }

@@ -1,0 +1,91 @@
+@import "./mixins";
+
+// are we in debug mode?
+$debug: true !default;
+$debug: false;
+
+
+$susySetup: (
+  columns: 12,
+  gutters: 5/6,
+  math: fluid,
+  output: float,
+);
+
+@if $debug == true {
+  $susy: map-merge($susySetup, (debug: (image: show)));
+}
+@else {
+  $susy: map-merge($susySetup, ());
+}
+
+
+// Colors
+// ==========================================================================
+$cWhite:            #ffffff	;
+$cText:             darken($cWhite, 94%);
+
+
+$cLink:             red;
+$cLinkHover:        geen;
+
+$cBackgroundColor: #5e5e5e;
+$cSqareDark:       #444444;
+$cLightOnBackground:      #ababab;
+
+
+
+// layout definition
+// ==========================================================================
+
+$totalW: 986px;      // total width
+$totalWideW: 1200px;      // total width for wiede screen
+
+// Typography
+// ==========================================================================
+
+
+$font-name: (
+  sans: 'OpenSansSignalwerk',
+  serif: 'MerriweatherSignalwerk'
+);
+
+$font-family: (
+  sans: #{map-get($font-name, sans), sans-serif},
+  serif: #{map-get($font-name, serif), serif}
+);
+
+$font-weight-bold: (
+  sans: 700,
+  serif: 700
+);
+
+$fontFactors: (
+  base: 16px,
+  code: 0.9rem,
+  small: 0.8rem,
+	p: 1rem,
+	h1: 2.4rem,
+	h2: 1.85rem,
+  h3: 1.15rem,
+  h4: 1rem,
+	h5: 0.9rem,
+);
+
+$fontSizesPrint: (
+  base: 9pt,
+  code: 6.5pt,
+  small: 8pt,
+	p: 9pt,
+	h1: 13.5pt,
+	h2: 11.5pt,
+  h3: 10pt,
+  h4: 9pt,
+	h5: 8pt,
+);
+
+// Layout
+// ==========================================================================
+$contentWidth:     980px;
+
+$paddingContentLogo: 50px;

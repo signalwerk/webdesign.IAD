@@ -1,0 +1,133 @@
+/* https://google-webfonts-helper.herokuapp.com/fonts */
+
+/* merriweather-regular - latin */
+@font-face {
+  font-family: map-get($font-name, serif);
+  font-style: normal;
+  font-weight: 400;
+  src: url('../../fonts/merriweather-v15/merriweather-v15-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../../fonts/merriweather-v15/merriweather-v15-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* merriweather-700 - latin */
+@font-face {
+  font-family: map-get($font-name, serif);
+  font-style: normal;
+  font-weight: 700;
+  src: url('../../fonts/merriweather-v15/merriweather-v15-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../../fonts/merriweather-v15/merriweather-v15-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* open-sans-regular - latin */
+@font-face {
+  font-family: map-get($font-name, sans);
+  font-style: normal;
+  font-weight: 400;
+  src: url('../../fonts/open-sans-v13/open-sans-v13-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../../fonts/open-sans-v13/open-sans-v13-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* open-sans-700 - latin */
+@font-face {
+  font-family: map-get($font-name, sans);
+  font-style: normal;
+  font-weight: 700;
+  src: url('../../fonts/open-sans-v13/open-sans-v13-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../../fonts/open-sans-v13/open-sans-v13-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+
+body {
+    // font-family: 'OpenSansSignalwerk', sans-serif;
+    font-family: map-get($font-family, sans);
+    font-size: 1em;
+    line-height: 1.45;
+    color: #222;
+    @media print {
+      font-size: map-get($fontSizesPrint, base);
+      line-height: 1.45;
+      color: #000;
+    }
+}
+
+
+
+::-moz-selection {
+    background: #b3b3b3;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3b3b3;
+    text-shadow: none;
+}
+
+
+
+p, ul, ol {
+    font-size: map-get($fontFactors, p);
+    margin-top: 0em;
+    margin-bottom: 0.6em;
+    @media print {
+      font-size: map-get($fontSizesPrint, p);
+    }
+    @media print {
+      orphans: 3;
+      widows: 3;
+    }
+}
+
+menu, ol, ul {
+	padding-left: 1rem;
+}
+
+p.small, p small, small, .small p, .small ul, .small li {
+    font-size: map-get($fontFactors, small);
+    @media print {
+      font-size: map-get($fontSizesPrint, small);
+    }
+}
+
+
+a {
+  text-decoration: none;
+  color: #006984;
+
+  @media print {
+    color: black;
+  }
+}
+
+@media print {
+  a[href]:after {
+      content: " (" attr(href) ")";
+  }
+}
+
+a:visited {
+    color: #0054a2;
+    @media print {
+      color: black;
+    }
+}
+
+a:hover {
+    color: black;
+}
+
+a:before {
+    content:"→ ";
+}
+
+li a:before {
+    content:" ";
+}
+
+
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1rem 0;
+    padding: 0;
+}

@@ -1,0 +1,57 @@
+h1, h2, h3, h4, h5 {
+    margin-top: 1.2em;
+    margin-bottom: 0.6em;
+    &.line {
+      padding-bottom: 0.3rem;
+      border-bottom: 2px solid #ccc;
+      @media print {
+        border-bottom-color: black;
+        border-bottom-width: 0.05rem;
+      }
+    }
+}
+
+h1, h2 {
+  @include font-bold(serif);
+  color: #444;
+  @media print {
+    color: black;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+  }
+}
+h3, h4, h5 {
+  @include font-bold(sans);
+}
+
+h1 {
+    font-size: map-get($fontFactors, h1);
+    @media print {
+      font-size: map-get($fontSizesPrint, h1);
+
+    }
+}
+h2 {
+    font-size: map-get($fontFactors, h2);
+    @media print {
+      font-size: map-get($fontSizesPrint, h2);
+    }
+}
+h3 {
+    font-size: map-get($fontFactors, h3);
+    @media print {
+      font-size: map-get($fontSizesPrint, h3);
+    }
+}
+h4 {
+    font-size: map-get($fontFactors, h4);
+    @media print {
+      font-size: map-get($fontSizesPrint, h4);
+    }
+}
+h5 {
+    font-size: map-get($fontFactors, h5);
+    @media print {
+      font-size: map-get($fontSizesPrint, h5);
+    }
+}

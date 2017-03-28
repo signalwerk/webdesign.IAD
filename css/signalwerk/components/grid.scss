@@ -1,0 +1,101 @@
+// the fullsize grid is moved to the left
+
+// $marginWidth: (span(4 of 12) + gutter());
+// $smallSizeWidth: 100% - $marginWidth;
+// $fullSizeWidth: span(first 12 of 8);
+
+.content {
+  padding-left: (span(4 of 12) + gutter());
+}
+
+
+// padding-left: span(4 of 12) + gutter();
+
+// $susyFullsize: map-merge($susySetup, (gutters: map-get($susySetup, gutters) * (100%/$fullSizeWidth) ));
+
+.bgBeta {
+  background: red !important;
+  min-height: 20px;
+}
+
+.grid {
+
+
+
+  $colNr: map-get($susySetup, columns);
+
+  &:after {
+      clear: both;
+      content: " ";
+      display: table;
+  }
+
+  // Setting columns
+  // Setting columns
+
+  @for $i from 1 through 8 {
+    .col_#{$i}of8 {
+      @include span($i of 8);
+    }
+    .col_#{$i}of8_last {
+      @include span(last $i of 8);
+    }
+  }
+
+
+  // spacers and width
+  @for $i from 1 through 10 {
+     &.w#{$i}0p,
+    .w#{$i}0p {
+        width: $i * 10%;
+    }
+
+    &.space#{$i} {
+        margin-bottom: $i * 1rem;
+        margin-top: $i * 1rem;
+    }
+  }
+
+  // Setting columns for 150%
+  &.fullsize {
+
+    width: span(12 of 8);
+    margin-left: 100% - (span(12 of 8) );
+
+
+    // Setting columns
+    @for $i from 1 through $colNr {
+      .col_#{$i}of#{$colNr} {
+        @include span($i of $colNr);
+        background: transparent;
+      }
+      .col_#{$i}of#{$colNr}_last {
+        @include span(last $i of $colNr);
+        background: transparent;
+      }
+    }
+
+
+  }
+}
+
+
+.margin {
+    &:before {
+        content: " ";
+        display: block;
+        height: 0.5rem;
+    }
+    &.compact {
+        &:before {
+            display: none;
+        }
+    }
+    height: 0;
+
+    width: span(4 of 8);
+    // margin-left: 0% - span(4 of 8) - gutter(4 of 8);
+    margin-left: 100% - (span(12 of 8) );
+
+    overflow: visible;
+}

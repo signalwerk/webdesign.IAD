@@ -1,0 +1,162 @@
+
+
+
+
+
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+
+@media only screen and (max-width: 750px) {
+	html {
+		font-size: 0.9em;
+	}
+    .container {
+        padding-top: 0.7rem;
+        width: 95%;
+    }
+}
+
+
+
+
+/* ==========================================================================
+   Print styles
+   ========================================================================== */
+
+
+
+
+
+
+
+
+/* ==========================================================================
+   specific
+   ========================================================================== */
+
+
+
+
+.fig {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.fig a:before{
+  content:"";
+}
+
+.fig img {
+  width: 100%;
+  border: 1px solid #ccc;
+}
+
+.fig_noOutline img {
+  border: none;
+}
+
+.fig em {
+}
+
+
+.fig_1of3 {
+  width: 33%;
+}
+.fig_1of2 {
+  width: 47%;
+}
+
+
+
+
+
+
+
+@keyframes flickerAnimation { /* flame pulses */
+  0%   { opacity:0; }
+  1%   { opacity:1; }
+  50%  { opacity:1; }
+  51%  { opacity:0; }
+  100% { opacity:0; }
+}
+
+.overlay .two {
+    opacity: 1;
+    animation: flickerAnimation 5s infinite;
+}
+
+.overlay {
+  position: relative;
+  width: 100%;
+}
+.overlay .one,
+.overlay .two {
+  background-color: white;
+}
+
+.overlay .one {
+  position: relative;
+}
+
+.overlay .two {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+
+
+
+
+@media print {
+
+	.overlay:after {
+  		clear: both;
+  		content: " ";
+  		display: table;
+	}
+
+	.overlay .one {
+  		width: 47%;
+  		float: left;
+  		padding-right: 6%;
+	}
+
+	.overlay .two {
+  	width: 47%;
+  		float: left;
+  		padding-right: 0%;
+  		animation: none;
+	}
+
+	.overlay .one,
+	.overlay .two {
+		position: relative;
+	}
+}
+
+
+/*
+
+
+
+
+
+::::: grid
+
+
+:::: col_1of2
+::: fig
+[![status](./sketch/status.png)](./sketch/status.png)
+:::
+::::
+
+:::: col_1of2_last
+text hier
+::::
+
+:::::
+
+*/
