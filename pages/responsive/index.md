@@ -91,7 +91,7 @@ nach Gerätetypen
 
 <br>
 
-Quellen: http://gs.statcounter.com/
+Quellen: [StatCounter](http://gs.statcounter.com/)
 
 <div class='header'></div>
 
@@ -105,7 +105,7 @@ Icons können auf verschiednen Grössen verschiedene Detailgrade annehmen. Die K
 ![Responsive Icons](./img/homeIcon.svg)
 
 #### Icons und Grafiken abhängig von Grösse und Auflösung
-Bild-Quelle: http://responsiveicons.co.uk/
+Bild-Quelle: [Responsive Icons](http://responsiveicons.co.uk/)
 :::
 
 <br>
@@ -165,28 +165,28 @@ März 2017: Erweiterung
 
 
 ### Übliche Bildschirmauflösungen
-* http://gs.statcounter.com/
-* http://www.w3schools.com/browsers/browsers_display.asp
+* [StatCounter](http://gs.statcounter.com/)
+* [Browser Display Statistics](http://www.w3schools.com/browsers/browsers_display.asp)
 
 ### Responsive Visualisierung
-* http://www.responsinator.com/
+* [Responsinator](http://www.responsinator.com/)
 
 ### Responsive Design
-* http://alistapart.com/article/responsive-web-design
-* https://responsivedesign.is/
+* [A List Apart – Responsive Web Design](http://alistapart.com/article/responsive-web-design)
+* [Übersicht – Responsive Web Design](https://responsivedesign.is/)
 
 ### Icon-Systeme & Responsive Icons
-* https://useiconic.com/ (kommerziell)
-* https://historyoficons.com/
+* [Iconic](https://useiconic.com/) (kommerziell)
+* [History of Icons](https://historyoficons.com/)
 
 ### Responsive Charts
-* http://blog.apps.npr.org/2014/05/19/responsive-charts.html
-* https://gionkunz.github.io/chartist-js/examples.html
+* [Responsive Charts](http://blog.apps.npr.org/2014/05/19/responsive-charts.html)
+* [Chartist](https://gionkunz.github.io/chartist-js/examples.html)
 
 ### Responsive Tabellen
-* http://zurb.com/playground/projects/responsive-tables/index.html
-* http://www.sitepoint.com/responsive-solutions-for-feature-comparison-tables/
-* https://css-tricks.com/examples/ResponsiveTables/responsive.php
-* http://codepen.io/pixelchar/pen/rfuqK
-* http://codepen.io/JasonAGross/pen/rjmyx
-* http://www.filamentgroup.com/lab/tablesaw.html
+* [Responsive Tables](http://zurb.com/playground/projects/responsive-tables/index.html)
+* [Responsive Tables — SitePoint](http://www.sitepoint.com/responsive-solutions-for-feature-comparison-tables/)
+* [Responsive Table – css-tricks.com](https://css-tricks.com/examples/ResponsiveTables/responsive.php)
+* [Responsive & Accessible](http://codepen.io/pixelchar/pen/rfuqK)
+* [Responsive Tables](http://codepen.io/JasonAGross/pen/rjmyx)
+* [Tablesaw - A Flexible Tool for Responsive Tables](http://www.filamentgroup.com/lab/tablesaw.html)

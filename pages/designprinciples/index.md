@@ -30,7 +30,7 @@ Im Jahr 1973 wurde mit «Xerox Alto» der erste Personal Computer vorgestellt, d
 ### Desktop
 Die Analogie zum Schreibtisch setzte sowohl die Namensgebung, wie auch die Gestalt.
 
-Bildquelle: https://en.wikipedia.org/wiki/&shy;File:Xerox_Star_8010_workstations.jpg
+Bildquelle: [Xerox Star 8010 - Wikipedia](https://en.wikipedia.org/wiki/File:Xerox_Star_8010_workstations.jpg)
 ::::
 :::: col_6of12_last
 
@@ -41,7 +41,7 @@ Pattern), wie auch für das Benutzerinterface gestellt.
 Das Konzept von GUI (Graphical User Interface ) und What You See Is What You Get (WYSIWYG) wurde in die Breite getragen.
 
 Bildquelle:
-https://www.parc.com/newsroom/media-library.html
+[PARC – Media Library](https://www.parc.com/newsroom/media-library.html)
 ::::
 :::::
 
@@ -106,7 +106,7 @@ Ab 2015 ist dieses Designprinzip durchgehend auf alle Google-­Produkten angewen
 Klare Typografie, leicht abgehobene Aktionsflächen und reduzierte Icons sind Merkmale von Material Design.
 
 Bildquelle:
-http://freebiesbug.com/psd-freebies/android-material-design/
+[Android Material Design - Freebiesbug](http://freebiesbug.com/psd-freebies/android-material-design/)
 
 <div class='header'></div>
 
@@ -125,14 +125,14 @@ März 2017: Erweiterung
 
 
 ### Geschichte vom GUI
-* https://historyoficons.com/
+* [History of Icons](https://historyoficons.com/)
 
 ### Flat Design
-* https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/
-* http://www.flatvsrealism.com/
+* [Apple – iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/)
+* [Intacto 2013 FLAT DESIGN vs REALISM](http://www.flatvsrealism.com/)
 
 ### Material Deisgn
-* https://youtu.be/Q8TXgCzxEnw
-* https://www.google.com/design/spec/material-design/
-* http://www.sitepoint.com/10-essential-material-design-resources-and-tutorials/
-* http://materializecss.com/
+* [Material design - YouTube](https://youtu.be/Q8TXgCzxEnw)
+* [google - Material design guidelines](https://www.google.com/design/spec/material-design/)
+* [Material Design Resources and Tutorials — SitePoint](http://www.sitepoint.com/10-essential-material-design-resources-and-tutorials/)
+* [Materialize CSS Library](http://materializecss.com/)

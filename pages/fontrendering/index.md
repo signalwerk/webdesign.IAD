@@ -20,8 +20,8 @@ title: Fontdarstellung
 * Safari 3.1+
 * Opera 10+
 
-Quelle: https://en.wikipedia.org/
-wiki/Web_typography
+Quelle: [Web typography - Wikipedia](https://en.wikipedia.org/wiki/Web_typography)
+
 :::
 Seit Computer eine Darstellung an einem Bildschirm aufweisen, wurde immer wieder nach technischen und gestalterischen Möglichkeiten gesucht, Schriften möglichst den Wünschen des Gestalters entsprechend dar zu stellen. Als das World Wide Web 1993 durch das CERN frei gegeben wird, war die Formatierung noch nicht durch einen Gestalter zu beeinflussen. Lediglich der Browser bestimmte das aussehen. Mit der Einführung von CSS im Jahre 1996 wurde dann die Möglichkeit geschaffen, Schriften einem Inhalt zu zuweisen. Allerdings musste der entsprechende Font bereits auf dem Zielgerät installiert sein. Bereits 1997 ermöglichte Microsoft mit damaliger Technologie in Ihrem Browser das Laden von Fonts über das Internet. Somit wurde es möglich, eigene Schriften einzusetzen. Doch diese Technologie war nur auf Internet Explorer (Windows) verfügbar und auch von den Font-Anbietern sehr schlecht akzeptiert. Erst im Jahre 2009 wurde auf Grundlage von OpenType ein neues Format namens «WOFF» (Web Open Font Format) entwickelt. Dieses Format wurde sehr schnell von Browser-Herstellern und von Font-Anbietern akzeptiert, so dass heute Problemlos auf allen wichtigen Browsern der vom Gestalter gewünschte Font dynamisch in die Seite geladen werden kann.
 
@@ -360,7 +360,7 @@ Bei der Darstellung mit Subpixeln wird die Schrftglättung nicht nur über versc
 ![Ohne Subpixel-Rendering](./img/normal/W-enlargement-subpixel-no-antialias.png)
 Schematische Darstellung ohne Glättung
 ::: small
-Bildquelle: http://de.wikipedia.org/wiki/Subpixel-Rendering
+Bildquelle: [Subpixel-Rendering – Wikipedia](http://de.wikipedia.org/wiki/Subpixel-Rendering)
 :::
 
 ::::
@@ -407,7 +407,7 @@ Da es somit technisch kompliziert ist für einen Renderer alle vier Definitionen
 
 Einige Technologien unterstützen auch das Einfärben einzelner Layer oder Teile.
 
-Bildquelle: https://typography.guru/journal/windows-color-fonts/
+Bildquelle: [Typography.Guru – Color Emoji](https://typography.guru/journal/windows-color-fonts/)
 <br>
 <br>
 
@@ -454,21 +454,21 @@ März 2017: Erweiterung
 
 
 ### Subpixel-Rendering
-* http://de.wikipedia.org/wiki/Subpixel-Rendering
+* [Subpixel-Rendering – Wikipedia](http://de.wikipedia.org/wiki/Subpixel-Rendering)
 
 ### Fonts in Webfonts konvertieren
-* http://www.fontsquirrel.com/tools/webfont-generator
+* [Font Squirrel](http://www.fontsquirrel.com/tools/webfont-generator)
 
 ### Webfonts und Kompression von Webfonts
-* https://en.wikipedia.org/wiki/Web_Open_Font_Format
-* http://www.w3.org/TR/WOFF/
-* https://www.w3.org/TR/WOFF2/
-* http://googledevelopers.blogspot.hu/2015/02/smaller-fonts-with-woff-20-and-unicode.html
+* [Web Open Font Format - Wikipedia](https://en.wikipedia.org/wiki/Web_Open_Font_Format)
+* [WOFF File Format 1.0](http://www.w3.org/TR/WOFF/)
+* [WOFF File Format 2.0](https://www.w3.org/TR/WOFF2/)
+* [Google Developers Blog – WOFF 2.0](http://googledevelopers.blogspot.hu/2015/02/smaller-fonts-with-woff-20-and-unicode.html)
 
 ### Farbige Fonts
-* https://pixelambacht.nl/2014/multicolor-fonts/
-* https://color.typekit.com/
-* https://helpx.adobe.com/typekit/using/ot-svg-color-fonts.html
-* http://manufacturaindependente.com/colorfont/
-* http://typography.guru/journal/windows-color-fonts/
-* https://en.wikipedia.org/wiki/OpenType#Color
+* [Pixelambacht – multicolor fonts](https://pixelambacht.nl/2014/multicolor-fonts/)
+* [Color fonts from Adobe Type](https://color.typekit.com/)
+* [OpenType-SVG color fonts](https://helpx.adobe.com/typekit/using/ot-svg-color-fonts.html)
+* [Colorfont – JavaScript Solution](http://manufacturaindependente.com/colorfont/)
+* [Typography.Guru – Color Emoji](http://typography.guru/journal/windows-color-fonts/)
+* [OpenType - Wikipedia](https://en.wikipedia.org/wiki/OpenType#Color)

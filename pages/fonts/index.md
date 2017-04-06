@@ -176,7 +176,7 @@ Im Jahr 2015 entstanden die ersten JavaScript-Experimente mit denen Fonts live i
 :::
 Anpassen des Fonts je nach Fenstergrösse.
 
-Bildquelle: http://alistapart.com/d/412/interpolation/
+Bildquelle: [A List Apart – Live font interpolation](http://alistapart.com/d/412/interpolation/)
 
 
 
@@ -248,36 +248,36 @@ März 2017: Erweiterung
 
 
 ### Schriften Testsen
-* http://typecast.com (über https://fonts.google.com/ auch ohne Account)
+* [Typecast](http://typecast.com) (über [Google Fonts](https://fonts.google.com/) auch ohne Account)
 
 ### Schriften erwerben
-* https://www.myfonts.com/
-* https://typekit.com/
-* https://www.fontshop.com/
-* https://fontstand.com/
+* [MyFonts](https://www.myfonts.com/)
+* [Typekit](https://typekit.com/)
+* [FontShop](https://www.fontshop.com/)
+* [Fontstand](https://fontstand.com/)
 
 ### Freefonts
-* http://www.fontsquirrel.com
-* https://fonts.google.com/
-* http://www.dafont.com/ (Qualität zum Teil zweifelhaft)
+* [Font Squirrel](http://www.fontsquirrel.com)
+* [Google Fonts](https://fonts.google.com/)
+* [DaFont](http://www.dafont.com/) (Qualität zum Teil zweifelhaft)
 
 ### Icon-Fonts erstellen
-* http://fontello.com/
+* [Fontello](http://fontello.com/)
 
 ### Responsive Schriftgrössen
-* https://css-tricks.com/viewport-sized-typography/
-* http://www.w3.org/TR/css3-values/#viewport-relative-lengths
-* http://codeitdown.com/responsive-font-size-css/
+* [Viewport Sized Typography](https://css-tricks.com/viewport-sized-typography/)
+* [CSS Values and Units Module Level 3](http://www.w3.org/TR/css3-values/#viewport-relative-lengths)
+* [Responsive Font Size with CSS](http://codeitdown.com/responsive-font-size-css/)
 
 ### Responsive Schriftanpassung
-* http://alistapart.com/blog/post/variable-fonts-for-responsive-design
-* http://alistapart.com/article/live-font-interpolation-on-the-web
-* http://www.lucasfonts.com/about/interpolation-theory/
-* http://alistapart.com/d/412/interpolation/
-* http://font-to-width.com/
-* https://css-tricks.com/examples/ViewportTypography/
+* [A List Apart – Variable Fonts for Responsive Design](http://alistapart.com/blog/post/variable-fonts-for-responsive-design)
+* [A List Apart – Live Font Interpolation on the Web](http://alistapart.com/article/live-font-interpolation-on-the-web)
+* [A List Apart – Live font interpolation](http://alistapart.com/d/412/interpolation/)
+* [LucasFonts – Interpolation Theory](http://www.lucasfonts.com/about/interpolation-theory/)
+* [Font‑To‑Width Proof of Concept](http://font-to-width.com/)
+* [Viewport Sized Typography](https://css-tricks.com/examples/ViewportTypography/)
 
 ### Variable Fonts
-* https://clagnut.com/blog/2389/
-* https://webkit.org/blog/7051/variable-fonts-on-the-web/
-* https://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/
+* [Getting started with variable fonts](https://clagnut.com/blog/2389/)
+* [Variable Fonts on the Web – WebKit](https://webkit.org/blog/7051/variable-fonts-on-the-web/)
+* [The Typekit Blog – Variable fonts](https://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/)

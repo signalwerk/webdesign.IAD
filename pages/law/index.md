@@ -36,7 +36,7 @@ Im angloamerikanischen Sprachraum ist ein «fair use» – zum Beispiel an Schul
 ### Zitatrecht
 ::: margin compact
 #### Quelle
-http://www.steigerlegal.ch/
+[Steiger Legal | Anwaltskanzlei für Recht im digitalen Raumedithomeinfoarrow-leftarrow-rightarrow-downarrow-upcircle-downcircle-leftcircle-rightcircle-upuserphonemail](http://www.steigerlegal.ch/)
 :::
 In der Schweiz ist es möglich, Inhalte von einer anderen Urheberschaft ins eigene Werk zu integrieren. Diese Übernahme wird als Zitat bezeichnet. Für das Zitieren ist weder eine «Wiederverwendungserlaubnis» noch eine sonstige Genehmigung notwendig. Das Zitat muss jedoch im Bezug zum eigenen Inhalt stehen und muss eine Erläuterung oder eine Veranschaulichung der eigenenen Inhalte sein (Zitatzweck). Der Umfang des Zitats muss dem Inhalt des neuen Werkes untergeordnet bleiben und als solches klar erkennbar und bezeichnet sein.
 
@@ -45,7 +45,7 @@ In der Schweiz ist es möglich, Inhalte von einer anderen Urheberschaft ins eige
 ::: margin
 #### Bundesgesetz über das Urheberrecht und verwandte Schutzrechte (URG)
 Stand: 1. Januar 2017
-https://www.admin.ch/opc/de/classified-compilation/19920251/index.html
+[SR 231.1 Bundesgesetz vom 9. Oktober 1992 über das Urheberrecht und verwandte Schutzrechte (Urheberrechtsgesetz, URG)](https://www.admin.ch/opc/de/classified-compilation/19920251/index.html)
 :::
 
 ::: grid box bg bigpadding
@@ -74,7 +74,7 @@ Bei der Berichterstattung von Aktualitäten, darf auch ohne explizite Einwilligu
 ### Panoramafreiheit
 ::: margin compact
 #### Quelle
-https://de.wikipedia.org/wiki/Panoramafreiheit
+[Panoramafreiheit – Wikipedia](https://de.wikipedia.org/wiki/Panoramafreiheit)
 :::
 In der Schweiz ist die Panoramafreiheit gegeben (Art. 27 Abs. 1 URG). Somit darf ein auf öffentlichem Grund (unabhänig von Eigentumsverhältnissen des Grundes) gemachtes Foto von urheberrechtlich geschützten Werken (Gebäude, Kunst am Bau, ...) veröffentlicht werden. Dies ist jedoch nicht in allen Ländern der EU gewährt. Somit ist bei einer Veröffentlichung im Internet eine gewisse Vorsicht und Abklärung geboten.
 
@@ -83,7 +83,7 @@ In der Schweiz ist die Panoramafreiheit gegeben (Art. 27 Abs. 1 URG). Somit darf
 ::: margin
 #### Bundesgesetz über das Urheberrecht und verwandte Schutzrechte (URG)
 Stand: 1. Januar 2017
-https://www.admin.ch/opc/de/classified-compilation/19920251/index.html
+[SR 231.1 Bundesgesetz vom 9. Oktober 1992 über das Urheberrecht und verwandte Schutzrechte (Urheberrechtsgesetz, URG)](https://www.admin.ch/opc/de/classified-compilation/19920251/index.html)
 :::
 
 ::: grid box bg bigpadding
@@ -108,14 +108,14 @@ https://www.admin.ch/opc/de/classified-compilation/19920251/index.html
 ### Haftung
 ::: margin compact
 #### Quelle
-http://wifimaku.com/
+[wifimaku - Das Wiki für Online-Marketing @ wifimaku.com](http://wifimaku.com/)
 :::
 Grundsätzlich trägt der Urheber eines geistigen Eigentums die Verantwortung für dessen Produkt. Doch der Urheber ist nicht auch immer der Herausgeber, der Verteiler (Provider) oder aber der Konsument. Alle diese Teilnehmer an einem gewissen Produkt haben Pflichten und Privilegien die im Medienrecht geklärt werden. Detailfragen müssen mit einer rechtskundigen Person geklärt werden, grundsätzlich kann man aber davon ausgehen, dass man als Person, die für die Veröffentlichung von Inhalten verantwortlich ist auch dafür rechtlich gemacht wird.
 
 ### Haftung bei Links
 ::: margin compact
 #### Quelle
-http://www.rwi.uzh.ch/oe/zik/archiv/&shy;ZivilrechtlHaftungInternet.pdf
+[](http://www.rwi.uzh.ch/oe/zik/archiv/ZivilrechtlHaftungInternet.pdf)
 :::
 Für die Beurteilung, ob durch ein Link ein Rechtsverstoss entsteht, unterscheiden die Juristen verschiedene Typen von Links (interne Links, externe Links, Hotlinks, Framing).
 Grundsätzlich lässt sich jedoch sagen, dass wenn ein Link auf Inhalte von Drittpersonen führt, kein Rechtsverstoss gegeben ist (Eigengebrauch, Art. 19 URG).
@@ -124,7 +124,7 @@ Um sicher keine Probleme zu erhalten, ist es jedoch sinnvoll, keine Links zu Web
 ### Impressum
 ::: margin
 #### Quelle compact
-http://www.steigerlegal.ch/
+[Steiger Legal | Anwaltskanzlei für Recht im digitalen Raumedithomeinfoarrow-leftarrow-rightarrow-downarrow-upcircle-downcircle-leftcircle-rightcircle-upuserphonemail](http://www.steigerlegal.ch/)
 :::
 Seit Frühling 2012 gilt in der Schweiz eine generelle Impressumspflicht für Websites, Apps und sonstige Online-Angebote im «elektronischen Geschäftsverkehr». Dazu zählt also auch Facebook, oder sonstige sozialen Netzwerke. Das heisst, dass auf einem solchen Erzeugnis grundsätzlich der rechtliche Herausgeber angegeben werden muss. Gemäss dem Bundesgesetz über den unlauteren Wettbewerb (UWG) verhält sich illegal, «... wer Waren, Werke oder Leistungen im elektronischen Geschäftsverkehr anbietet und es dabei unterlässt, klare und vollständige Angaben über seine Identität und seine Kontaktadresse einschliesslich derjenigen der elektronischen Post zu machen ...» (UWG Art. 3, Abs. 1).
 Somit ist es verpflichtend, dass auf der Website (also nicht über anfragen beim Registrar) vollständige Postanschrift und eine Mail-Adresse verfügbar sind.
@@ -151,7 +151,7 @@ Im Internet sind viele Dienste, Programme und Inhalte frei zugänglich. Das heis
 ![Creative Commons Logo](./img/cc-logo.svg)
 :::
 
-Mit Creative Commons können Urheber von Texten, Fotos, Videos, Musik, ... sehr einfach Lizenzen für die Weiterverwendung ihrer Werke erstellen. Es kann bestimmt werden, unter welchen rechtlichen Bedingungen Werke veröffentlicht und weiter verwendet werden dürfen. Creative Commons kann wie ein Baukasten für Lizenzen betrachtet werden. Mehr infos unter http://www.creativecommons.ch/
+Mit Creative Commons können Urheber von Texten, Fotos, Videos, Musik, ... sehr einfach Lizenzen für die Weiterverwendung ihrer Werke erstellen. Es kann bestimmt werden, unter welchen rechtlichen Bedingungen Werke veröffentlicht und weiter verwendet werden dürfen. Creative Commons kann wie ein Baukasten für Lizenzen betrachtet werden. Mehr infos unter [Startseite - Creative Commons](http://www.creativecommons.ch/)
 
 
 <br>
@@ -213,24 +213,24 @@ März 2017: Erweiterung
 
 
 ### Impressumspflicht Schweiz
-* http://www.steigerlegal.ch/2011/11/10/e-commerce-impressumspflicht-in-der-schweiz-ab-2012/
+* [Impressumspflicht – Steiger Legal](http://www.steigerlegal.ch/2011/11/10/e-commerce-impressumspflicht-in-der-schweiz-ab-2012/)
 
 ### Spam in der Schweiz
-* http://www.frick-partner.ch/downloads/frick_partner_anti_spam_gesetzgebung_schweiz.pdf
+* [Anti-Spam Gesetzgebung Schweiz – Frick & Partner](http://www.frick-partner.ch/downloads/frick_partner_anti_spam_gesetzgebung_schweiz.pdf)
 
 ### Medienrecht Schweiz
-* https://wifimaku.com/medienrecht-schweiz/medienrecht,-kommunikationsrecht-und-werberecht-im-%C3%BCberblick-10813461.html
+* [Medienrecht Schweiz](https://wifimaku.com/medienrecht-schweiz/medienrecht-schweiz-5144601.html)
 
-### Einbindung fremder Inhalte
-* http://www.kpw-law.de/2014/10/24/einbinden-fremder-inhalte-im-web-ist-keine-urheberrechtsverletzung/
+### Links & Include
+* [Einbinden fremder Inhalte im Web](http://www.kpw-law.de/2014/10/24/einbinden-fremder-inhalte-im-web-ist-keine-urheberrechtsverletzung/)
 
 ### Bildder im Internet
-* https://www.steigerlegal.ch/wp-content/uploads/2013/01/blogwerk_whitepaper_bildverwendung-im-internet_201204.pdf
+* [Bildverwendung im internet – Steiger Legal](https://www.steigerlegal.ch/wp-content/uploads/2013/01/blogwerk_whitepaper_bildverwendung-im-internet_201204.pdf)
 
 ### Haftung für Links
-* https://de.wikipedia.org/wiki/Zul%C3%A4ssigkeit_von_und_Haftung_f%C3%BCr_Hyperlinks
-* http://www.rwi.uzh.ch/oe/zik/archiv/ZivilrechtlHaftungInternet.pdf
+* [Zulässigkeit von und Haftung für Hyperlinks – Wikipedia](https://de.wikipedia.org/wiki/Zul%C3%A4ssigkeit_von_und_Haftung_f%C3%BCr_Hyperlinks)
+* [Zivilrechtliche Haftung im Internet](http://www.rwi.uzh.ch/oe/zik/archiv/ZivilrechtlHaftungInternet.pdf)
 
 ### Freie software Lizenzen
-* https://opensource.org/licenses/MIT
-* https://opensource.org/licenses/BSD-2-Clause
+* [The MIT License](https://opensource.org/licenses/MIT)
+* [The 2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause)

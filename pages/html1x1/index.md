@@ -434,7 +434,7 @@ Eine CSS-Datei formatiert die einzelnen Teile einer HTML-Seite mittels einer im 
 * Class-Selektor
 * ID-Selektor
 
-Daneben gibt es noch Selektor-Regeln und Pseudo-Selektoren, die hier jedoch nicht behandelt werden. Die Attribute, die über Selektoren vergeben werden können sind unter folgendem Link gut verständlich erklärt: http://www.w3schools.com/cssref
+Daneben gibt es noch Selektor-Regeln und Pseudo-Selektoren, die hier jedoch nicht behandelt werden. Die Attribute, die über Selektoren vergeben werden können sind unter folgendem Link gut verständlich erklärt: [CSS Reference](http://www.w3schools.com/cssref)
 
 
 
@@ -654,18 +654,18 @@ März 2017: Erweiterung
 
 
 ### CSS & HTML Grundkurse
-* https://www.codecademy.com/en/tracks/web
-* http://www.w3schools.com/
+* [HTML & CSS – Codecademy](https://www.codecademy.com/en/tracks/web)
+* [W3Schools – Web Tutorials](http://www.w3schools.com/)
 
 ### CSS-Referenz
-* http://www.w3schools.com/cssref
+* [CSS Reference](http://www.w3schools.com/cssref)
 
 ### Platzhalter-Bilder
-* http://lorempixel.com/
-* http://placehold.it/
+* [lorempixel.com](http://lorempixel.com/)
+* [Placehold.it](http://placehold.it/)
 
 ### Ein Inhalt viele Designs
-* http://www.csszengarden.com/
+* [CSS Zen Garden](http://www.csszengarden.com/)
 
 ### Code und dessen Bedeutung
-* http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+* [Paul Ford: What Is Code? | Bloomberg](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)

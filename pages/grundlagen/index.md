@@ -27,7 +27,7 @@ Das ARPAnet (Advanced Research Projects Agency Network) wurde vom US-Verteidigun
 #### NASDAQ <br>(Technologie-Kurs USA)
 Grosse Investitionen bis 2000 gefolgt von einem «Platzen der Blase».
 <!-- Quelle: en.wikipedia.org -->
-Quelle: http://en.wikipedia.org/&shy;wiki/File:Nasdaq2.png
+Quelle: [Nasdaq2 – Wikipedia](http://en.wikipedia.org/wiki/File:Nasdaq2.png)
 :::
 Durch die stetige technische Verbesserung und dem vermehrten Zugang von Privatpersonen (Kunden)  zum Internet wurden viele Internet-Startups gegründet und ein Diversifikation der zur verfügung stehenden Inhalte und Dienstleistungen wurde stark voran getrieben. Das Internet wurde schnell auch von Investoren als Wachstumsmarkt erkannt und sowohl die Infrastruktur (Internetzugang, Computer, ...) wie auch darauf aufsetztende Dienste (Mailanbieter, Online Shops) wurden stark gefördert und mit Geld unterstütz. So wurde zwischen 1995 und 2000 ein wichtiger Grundstein für das zur verfügung stehende Angebot gelegt. Als im Frühjahr 2000 sich die Investoren schlagartig aus diesen Investitionen verabschiedeten (Dotcom-Blase) platzte vorerst auch die Idee, dass auf dem neu erschlossenen (virtuellen) Marktplatz unersättliche Gewinne warten würden. Die Branche, welche in den boomenden Jahren viel aufbauen konnte rutschte in eine Kriese. Ab mitte der 2000er Jahre wurde über neue Ideen und Konzepte der Vernetzung von Informationen und Personen über Facebook, Twitter und Ähnlichen ein weiterer Anreiz geschaffen das Internet näher in den Altag ein zu bauen. Mit dem Aufkommen von mobilen Endgeräten, die über Internetzugang verfügten, wurde ab etwa 2007 (iPhone)  das Internet mehr und mehr ein stetiger Begleiter des Alltags.
 
@@ -84,7 +84,7 @@ Um einen Dienst eines Servers zu nutzen, muss der Client das verwendete Protokol
 
 
 #### Anzeigen einer Website
-Ein Benutzer möchte die Website http://www.switch.ch/index.html betrachten. Dafür sind nebenstehende Schritte notwendig.
+Ein Benutzer möchte die Website [switch.ch](http://www.switch.ch/index.html) betrachten. Dafür sind nebenstehende Schritte notwendig.
 :::
 Viele Dienste im Internet sind über sogenannte URL (uniform resource locator) erreichbar. Diese URL enthalten angaben über das verwendete Protokoll, wie auch über die angefrage Resource (z.B. Datei).
 
@@ -124,34 +124,34 @@ Februar 2017: Erweiterung
 
 
 ### Erste Website
-* http://info.cern.ch/hypertext/WWW/TheProject.html
+* [The World Wide Web project](http://info.cern.ch/hypertext/WWW/TheProject.html)
 
 ### Domain-Namen mit .ch-Endung registrieren
-* http://hostpoint.ch
-* http://www.switchplus.ch
-* http://green.ch
+* [Hostpoint](http://hostpoint.ch)
+* [switchplus ag](http://www.switchplus.ch)
+* [Green](http://green.ch)
 * ...
 
 ### Infos zu Domain-Namen mit .swiss-Endung
-* http://www.dot.swiss/
+* [dot.swiss](http://www.dot.swiss/)
 
 ### Domain-Namen mit diversen Endung registrieren
-* https://www.hosteurope.ch/
-* https://www.godaddy.com/
+* [Host Europe](https://www.hosteurope.ch/)
+* [GoDaddy](https://www.godaddy.com/)
 * ...
 
 ### Mögliche Top-Level-Domains
-* http://data.iana.org/TLD/tlds-alpha-by-domain.txt
+* [iana.org](http://data.iana.org/TLD/tlds-alpha-by-domain.txt)
 
 ### IP-Adresse einer Domain finden
-* http://www.wikihow.com/Ping-on-Mac-OS
+* [wikiHow](http://www.wikihow.com/Ping-on-Mac-OS)
 
 ### Halterinformationen zu einer Domain finden
-* https://www.whois.net/
+* [Whois.org](https://www.whois.net/)
 
 ### Bedeutung und Wachstum von Technologien
-* http://www.dtc.umn.edu/~odlyzko/doc/oft.internet.growth.pdf
-* http://object.cato.org/sites/cato.org/files/serials/files/cato-journal/1994/11/cj14n2-6.pdf
-* http://www.itu.int/en/ITU-D/Statistics/Pages/facts/
-* https://www.theatlantic.com/technology/archive/2012/04/the-100-year-march-of-technology-in-1-graph/255573/
-* http://www.nytimes.com/2008/02/10/opinion/10cox.html
+* [Growth of the Internet](http://www.dtc.umn.edu/~odlyzko/doc/oft.internet.growth.pdf)
+* [Unnatural Monopoly: Critical Moments in the Development of the Bell System Monopoly](http://object.cato.org/sites/cato.org/files/serials/files/cato-journal/1994/11/cj14n2-6.pdf)
+* [ICT Facts and Figures 2016](http://www.itu.int/en/ITU-D/Statistics/Pages/facts/)
+* [100-Year of Technology – Graph](https://www.theatlantic.com/technology/archive/2012/04/the-100-year-march-of-technology-in-1-graph/255573/)
+* [You Are What You Spend - The New York Times](http://www.nytimes.com/2008/02/10/opinion/10cox.html)

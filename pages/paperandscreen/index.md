@@ -29,7 +29,7 @@ Der Paperprototype sollte die Bildschirmauflösung im Verhältnis zu den Inhalte
 :::: col_6of12_last
 ![paper Paperprototyping](./img/paperproto_2.png)
 ::::
-Quelle: https://youtu.be/GrV2SZuRPv0
+Quelle: [Hanmail Paper Prototype - YouTube](https://youtu.be/GrV2SZuRPv0)
 :::::
 
 ### Abläufe Zeigen

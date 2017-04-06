@@ -68,7 +68,7 @@ Im Jahr 2015 hat Facebook GraphQL publiziert (seit 2012 in Entwicklung). Dabei h
 Das File Transfer Protocol (FTP, englisch für Dateiübertragungsprotokoll) ist ein 1985 spezifiziertes Netzwerkprotokoll zur Übertragung von Dateien über IP-Netzwerke. Es wird benutzt, um Dateien vom Server zum Client (Herunterladen), vom Client zum Server (Hochladen) oder clientgesteuert zwischen zwei FTP-Servern zu übertragen.
 
 Quelle:
-https://de.wikipedia.org/wiki/&shy;File_Transfer_Protocol
+[File Transfer Protocol – Wikipedia](https://de.wikipedia.org/wiki/File_Transfer_Protocol)
 :::
 Um Dateien auf einen (Web-)Server zu übertragen gibt es diverse Möglichkeiten. Eines der beliebtesten und einfachsten Verfahren ist es, sich mit einem FTP-Client an den Server anzumelden und die Daten mit diesem Programm zum Server zu übermitteln.
 
@@ -108,8 +108,8 @@ Eine relationale Datenbank dient zur elektronischen Datenverwaltung in Computers
 SQL ist eine Datenbanksprache zur Definition von Datenstrukturen in relationalen Datenbanken sowie zum Bearbeiten (Einfügen, Verändern, Löschen) und Abfragen von darauf basierenden Datenbeständen.
 
 Quellen:
-* https://de.wikipedia.org/wiki/&shy;Relationale_Datenbank
-* https://de.wikipedia.org/wiki/SQL
+* [Relationale Datenbank – Wikipedia](https://de.wikipedia.org/wiki/Relationale_Datenbank)
+* [SQL – Wikipedia](https://de.wikipedia.org/wiki/SQL)
 
 :::
 Auf einem Server können nicht nur statische Daten liegen, die dann an einen Browser ausgeliefert werden, sondern es können auch Programme (oft Skripte) auf dem Server liegen, die dann durch einen Aufruf vom Server ausgeführt werden. Somit kann auf verschiedene Verhalten oder Bedürfnisse vom Benutzer eingeganen werden.
@@ -148,22 +148,22 @@ März 2017: Erweiterung
 
 
 ### REST – GET – POST – GraphQL
-* https://de.wikipedia.org/wiki/Representational_State_Transfer
-* https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol&shy;#Request_methods
-* http://graphql.org/
+* [Representational State Transfer – Wikipedia](https://de.wikipedia.org/wiki/Representational_State_Transfer)
+* [Hypertext Transfer Protocol - Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods)
+* [GraphQL](http://graphql.org/)
 
 ### REST-Applikation (Beispiel)
-* http://discuss.emberjs.com/
+* [Ember.JS](http://discuss.emberjs.com/)
 
 ### FTP-Programme
-* https://cyberduck.io/ (frei)
-* https://panic.com/transmit/
+* [Cyberduck – gratis](https://cyberduck.io/) (frei)
+* [Transmit - kostenpflichtig](https://panic.com/transmit/)
 
 ### Servertechnologien
-* http://www.php.net/
-* https://nodejs.org/
-* http://rubyonrails.org/
+* [PHP](http://www.php.net/)
+* [Node.js](https://nodejs.org/)
+* [Ruby on Rails](http://rubyonrails.org/)
 
 ### Relationale Datenbanken
-* https://mariadb.org/ (freies MySQL)
-* https://www.sqlite.org/ (frei)
+* [MariaDB (MySQL)](https://mariadb.org/) (freies MySQL)
+* [SQLite](https://www.sqlite.org/) (frei)

@@ -15,7 +15,7 @@ title: Interaktion mit Inhalten
 Interaktion bezeichnet das wechselseitige Aufeinandereinwirken von Akteuren oder Systemen und ist eng verknüpft mit den übergeordneten Begriffen Kommunikation, Handeln und Arbeit. Manchmal werden diese Begriffe sogar synonym verwendet.
 
 Quelle:
-http://de.wikipedia.org/wiki/Interaktion
+[Interaktion – Wikipedia](http://de.wikipedia.org/wiki/Interaktion)
 :::
 ## Interaktion mit Autor
 Die Kommunikation zwischen einem Sender und einem Empfänger ist bei einem Massenmedium, zu welchem das Internet gezählt werden darf, oftmals nur in eine Richtung oder maximal noch selektiv wechselwirkend. Die Interaktion ist also stark eingeschränkt und in den klassischen Medien ist die Interaktion unter Kontrolle des Senders, welcher auch mit der grösseren Reichweite aufwarten kann.
@@ -66,7 +66,7 @@ Die wohl einfachste Art der Interaktion im Internet ist das verknüpfen von Inha
 :::: margin
 Der Text wird relativ lieblos und ungepflegt abgeschnitten und über einen weiteren Link gerät man zum vollen Inhalt.
 
-Quelle (2014): http://www.mediaforum.ch
+Quelle: [mediaforum (2014)](http://www.mediaforum.ch)
 ::::
 ::: imageline
 ![Anreisser](./img/Anreisser.png)
@@ -138,7 +138,7 @@ Unterhalb eines Artikels wird die Kommentar-Funktion eingefügt.
 Auf Kommentare kann meist auch wieder kommentiert werden.
 ::::
 :::::
-Quelle: http://www.tagesanzeiger.ch/
+Quelle: [tagesanzeiger.ch](http://www.tagesanzeiger.ch/)
 
 
 
@@ -201,7 +201,7 @@ Daten für einen Leser leicht erfassbar zu machen, kann über eine Visualisierun
 ![Karte](./img/chartA.png)
 Eine Interaktive Karte von Wahlresultaten kann eine schnelle Übersicht über die Regionen geben.
 
-Quelle: http://www.tagesanzeiger.ch
+Quelle: [tagesanzeiger.ch](http://www.tagesanzeiger.ch)
 
 ::::
 
@@ -225,7 +225,7 @@ werden, um Information zu reduzieren.
 <br>
 
 ::: margin
-Quelle: https://www.digitale-gesellschaft.ch/vds.html
+Quelle: [Digitale Gesellschaft – Vorratsdatenspeicherung](https://www.digitale-gesellschaft.ch/vds.html)
 :::
 ![Ablauf Glaettli](./img/glaettli.png)
 
@@ -260,8 +260,8 @@ Quelle: Bundesamt für Statistik
 <div class="ct-golden-section box">
 !!!include(./interaction/img/straftaten.svg)!!!
 </div>
-<!-- https://www.bfs.admin.ch/bfs/de/home/statistiken/kriminalitaet-strafrecht.assetdetail.333911.html -->
-<!-- https://www.pxweb.bfs.admin.ch/Selection.aspx -->
+<!-- "https://www.bfs.admin.ch/bfs/de/home/statistiken/kriminalitaet-strafrecht.assetdetail.333911.html -->
+<!-- "https://www.pxweb.bfs.admin.ch/Selection.aspx -->
 
 
 <br>
@@ -289,20 +289,20 @@ März 2017: Erweiterung
 
 
 ### Kommentare als Inhalt
-* http://www.reddit.com/
-* https://twitter.com/
-* https://www.facebook.com/
+* [reddit](http://www.reddit.com/)
+* [Twitter](https://twitter.com/)
+* [Facebook](https://www.facebook.com/)
 
 ### Urheberrechtsverletzende Kommentare (Inhalte)
-* https://www.ige.ch/de/urheberrecht/agur12.html
-* http://simsa.ch/
+* [Eidgenössisches Institut für Geistiges Eigentum – AGUR12](https://www.ige.ch/de/urheberrecht/agur12.html)
+* [Branchenverband der Schweizer Internet Dienstleister – simsa](http://simsa.ch/)
 
 ### Interaktion zwischen Web-Benutzern
-* https://togetherjs.com
+* [Mozilla Labs – TogetherJS](https://togetherjs.com)
 
 ### Info-Grafiken
-* https://lab.interactivethings.com/galaxy-of-covers/
-* http://www.tagesanzeiger.ch/23568013
-* http://www.nytimes.com/2013/07/22/business/in-climbing-income-ladder-location-matters.html
-* https://www.digitale-gesellschaft.ch/vds.html
-* http://www.nytimes.com/interactive/2012/11/02/us/politics/paths-to-the-white-house.html
+* [Galaxy of Covers](https://lab.interactivethings.com/galaxy-of-covers/)
+* [tagesanzeiger.ch – Maps](http://www.tagesanzeiger.ch/23568013)
+* [Location Matters - NYTimes.com](http://www.nytimes.com/2013/07/22/business/in-climbing-income-ladder-location-matters.html)
+* [Digitale Gesellschaft – Vorratsdatenspeicherung](https://www.digitale-gesellschaft.ch/vds.html)
+* [512 Paths to the White House -  NYTimes.com](http://www.nytimes.com/interactive/2012/11/02/us/politics/paths-to-the-white-house.html)

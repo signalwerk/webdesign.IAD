@@ -211,7 +211,7 @@ Häufig werden Blogs oder Posts in sozialen Netzwerken mit absteigendem Datum so
 ![Twitter](./img/glaettli.png)
 :::
 ####  Posts geordnet nach Entstehung
-Quelle: https://twitter.com/bglaettli
+Quelle: [Balthasar Glättli – Twitter](https://twitter.com/bglaettli)
 
 ::::
 
@@ -220,7 +220,7 @@ Quelle: https://twitter.com/bglaettli
 ![Time](./img/time.png)
 :::
 #### Inhalt über zeitliche Positionierung zugänglich
-Quelle: http://world.time.com/2013/12/05/
+Quelle: [Nelson Mandela – TIME.com](http://world.time.com/2013/12/05/)
 nelson-mandelas-extraordinary-life-an-interactive-timeline/
 
 ::::
@@ -261,7 +261,7 @@ Im Bereich des Journalismus gibt es diverse Ansätze durch die Interaktivon des 
 ![Iouri Storry](./img/iouriA.png)
 :::
 ####  Bildstrecken, interaktive Grafiken und Gallerien unterstützen den Text
-Quelle: http://iouri-in-sotschi.nzz.ch/
+Quelle: [Iouri Podladtchikov - NZZ.ch](http://iouri-in-sotschi.nzz.ch/)
 
 ::::
 
@@ -335,24 +335,24 @@ März 2017: Erweiterung
 
 
 ### Navigationen nach Zeit
-* http://world.time.com/2013/12/05/nelson-mandelas-extraordinary-life-an-interactive-timeline/
-* https://www.flickr.com/photos/holgi/
-* https://twitter.com/bglaettli
-* https://de-de.facebook.com/Zukkihund
+* [Nelson Mandela – TIME.com](http://world.time.com/2013/12/05/nelson-mandelas-extraordinary-life-an-interactive-timeline/)
+* [holgi –| Flickr](https://www.flickr.com/photos/holgi/)
+* [Balthasar Glättli – Twitter](https://twitter.com/bglaettli)
+* [Facebook](https://de-de.facebook.com/Zukkihund)
 
 ### Scroll-Navigation
-* http://nyphil.org/files/biennial/index.html
-* http://www.outyear.co.uk/smint/demo/
+* [New York Philharmonic](http://nyphil.org/files/biennial/index.html)
+* [Smint – jQuery plugin](http://www.outyear.co.uk/smint/demo/)
 
 ### Slideout
-* http://mmenu.frebsite.nl/
+* [sliding submenus – jQuery plugin](http://mmenu.frebsite.nl/)
 
 ### Storrytelling durch scroll
-* http://www.nytimes.com/projects/2012/snow-fall/
-* http://monet.staedelmuseum.de
-* http://iouri-in-sotschi.nzz.ch/en/
-* http://www.tagesanzeiger.ch/extern/storytelling/platzspitz/
-* http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+* [Snow Fall – Multimedia Feature - NYTimes.com](http://www.nytimes.com/projects/2012/snow-fall/)
+* [Monet im Städel Museum Frankfurt](http://monet.staedelmuseum.de)
+* [Iouri Podladtchikov – NZZ.ch](http://iouri-in-sotschi.nzz.ch/en/)
+* [The Needle Trauma – tagesanzeiger.ch](http://www.tagesanzeiger.ch/extern/storytelling/platzspitz/)
+* [Paul Ford: What Is Code? – Bloomberg](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
 ### Aktuelle Web-Trends
-* http://www.grimme-online-award.de
+* [Grimme Online Award](http://www.grimme-online-award.de)

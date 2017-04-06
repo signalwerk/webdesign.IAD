@@ -20,7 +20,7 @@ Ab 1993 sorgte vor allem der Browser NCSA Mosaic (kurz: Mosaic) für eine weiter
 #### WorldWideWeb Browser
 Erster Browser, jedoch noch ohne eingebetteten Bildern.
 
-Bild-Quelle: https://commons.wikimedia.org/&shy;wiki/File:WorldWideWeb.1.png
+Bild-Quelle: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:WorldWideWeb.1.png)
 
 :::
 
@@ -33,7 +33,7 @@ Bild-Quelle: https://commons.wikimedia.org/&shy;wiki/File:WorldWideWeb.1.png
 #### Mosaic Browser
 Erster Browser, der massentauglich wird und auch Bilder direkt im Text darstellt.
 
-Bild-Quelle: http://www.doc.ic.ac.uk/~lmjm/&shy;WWW_handbook/handbook-3.html
+Bild-Quelle: [WWW Handbook](http://www.doc.ic.ac.uk/~lmjm/WWW_handbook/handbook-3.html)
 :::
 
 
@@ -66,7 +66,7 @@ Die Rivalität der beiden Browser Internet Explorer (IE) und Netscape Navigator 
 In der Nacht vom 1. Oktober 1997 platzierte Microsoft (mutmasslich), nach dem Release von Internet
 Explorer 4, ein riesiges Logo vom Internet-Explorer auf Netscapes Firmengelände.
 
-Bild-Quelle: http://home.snafu.de/tilman/&shy;mozilla/stomps.html
+Bild-Quelle: [The Mozilla Museum](http://home.snafu.de/tilman/mozilla/stomps.html)
 :::
 
 <br>
@@ -115,7 +115,7 @@ Browser-Statistik
 
 
 <br>
-Quelle: http://gs.statcounter.com/
+Quelle: [StatCounter](http://gs.statcounter.com/)
 
 
 <div class='header'></div>
@@ -129,7 +129,7 @@ Quelle: http://gs.statcounter.com/
 Webbrowser oder allgemein auch Browser (engl. to browse – stöbern, schmökern, umsehen auch abgrasen) sind spezielle Computerprogramme zur Darstellung von Webseiten im World Wide Web oder allgemein von Dokumenten und Daten.
 
 Quelle:
-https://de.wikipedia.org/wiki/Webbrowser
+[Webbrowser – Wikipedia](https://de.wikipedia.org/wiki/Webbrowser)
 ::::
 
 Um eine Website im Browser zu betrachten, laufen folgende Schritte ab:
@@ -164,12 +164,12 @@ März 2017: Erweiterung
 
 
 ### Browsermarkt & Branche
-* https://en.wikipedia.org/wiki/Usage_share_of_web_browsers
-* http://2014.report.gridsetapp.com/
+* [Usage share of web browsers - Wikipedia](https://en.wikipedia.org/wiki/Usage_share_of_web_browsers)
+* [Gridset · Responsive Report 2014](http://2014.report.gridsetapp.com/)
 
 ### Technische Unterschiede in Browsern
-* http://caniuse.com/
+* [Can I use...](http://caniuse.com/)
 
 ### Tim Berners-Lee und die Anfänge des Internets
-* https://www.w3.org/People/Berners-Lee/
-* http://www.w3.org/People/Berners-Lee/WorldWideWeb.html
+* [Tim Berners-Lee – Person](https://www.w3.org/People/Berners-Lee/)
+* [Tim Berners-Lee – WorldWideWeb](http://www.w3.org/People/Berners-Lee/WorldWideWeb.html)

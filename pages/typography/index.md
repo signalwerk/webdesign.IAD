@@ -161,20 +161,20 @@ März 2017: Erweiterung
 
 
 ### Typografie im Web
-* http://www.typogui.de/
-* http://www.sitepoint.com/css-properties-to-control-web-typography/
-* http://www.typewolf.com/cheatsheet
+* [A Pocket Guide to Master Every Day’s Typographic Adventures](http://www.typogui.de/)
+* [CSS Properties to Control Web Typography](http://www.sitepoint.com/css-properties-to-control-web-typography/)
+* [Typography Cheatsheet](http://www.typewolf.com/cheatsheet)
 
 ### OpenType im Web
-* http://clagnut.com/sandbox/css3/
-* https://www.typotheque.com/articles/opentype_features_in_web_browsers_-_tests
-* https://helpx.adobe.com/typekit/using/open-type-syntax.html
-* http://blog.typekit.com/2014/02/05/kerning-on-the-web/
+* [CSS 3 Font-Feature-Settings OpenType](http://clagnut.com/sandbox/css3/)
+* [graphic design and typography](https://www.typotheque.com/articles/opentype_features_in_web_browsers_-_tests)
+* [Syntax for OpenType features in CSS](https://helpx.adobe.com/typekit/using/open-type-syntax.html)
+* [Kerning on the Web](http://blog.typekit.com/2014/02/05/kerning-on-the-web/)
 
 ### Trennungen im Blocksatz
-* http://generatedcontent.org/post/44751461516/finer-grained-control-of-hyphenation-with-css4
-* https://drafts.csswg.org/css-text-4/
-* https://kenneth.io/blog/2012/03/04/word-wrapping-hypernation-using-css/
+* [Control of hyphenation with CSS4](http://generatedcontent.org/post/44751461516/finer-grained-control-of-hyphenation-with-css4)
+* [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
+* [Word wrapping/hyphenation using CSS](https://kenneth.io/blog/2012/03/04/word-wrapping-hypernation-using-css/)
 
 ### CSS-Fähigkeiten von Browsern nachschlagen
-* http://caniuse.com/
+* [Can I use...](http://caniuse.com/)

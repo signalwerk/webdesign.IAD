@@ -32,7 +32,7 @@ Bei Websites sind die Erneuerungszyklen wesentlich kürzer als bei analogen Medi
 Der Begriff Corporate Design (CD) bzw. Unternehmens-Erscheinungsbild bezeichnet einen Teilbereich der Unternehmens-
 Identität (corporate identity) und beinhaltet das gesamte, einheitliche Erscheinungsbild eines Unternehmens.
 
-Quelle: http://de.wikipedia.org/&shy;wiki/Corporate_Design
+Quelle: [Corporate Design – Wikipedia](http://de.wikipedia.org/wiki/Corporate_Design)
 :::
 
 Das Corporate Identety legt ein Konzept zur Identität der Firma fest. Dieses gibt vor, wie die Unternehmenskommunikation auf strategischer und operativer Ebene geplant werden soll. Darin enthalten ist auch eine visuelle Strategie, wie das Unternehmen nicht nur gegen aussen kommuniziert, sondern wie auch die visuelle Erscheinung davon sein soll. Genau wie jede andere Unternehmenskommunikation und wie jedes andere visuelle Kommunikationsmittel, ist auch die Website individuell auf die jeweilige Eigenschaft des Mediums zu untersuchen und entsprechend zu gestalten.
@@ -196,7 +196,7 @@ Kopfbereich mit Adresse und Logo wurde eingeblendet, Navitation entfernt und sel
 ![Website Browser](./img/rg-website.png)
 <!-- Website in der normalen Ansicht -->
 
-Quelle: http://www.rg-metallbau.ch/ (Version 2008 nicht mehr online)
+Quelle: [R&G Metallbau AG](http://www.rg-metallbau.ch/) (Version 2008 nicht mehr online)
 
 ::::
 :::::
@@ -227,22 +227,22 @@ März 2017: Erweiterung
 
 
 ### Software-Management
-* http://www.agilemanifesto.org/iso/de/principles.html
-* https://de.wikipedia.org/wiki/Pflichtenheft
-* https://de.wikipedia.org/wiki/Lastenheft
+* [Prinzipien hinter dem Agilen Manifest](http://www.agilemanifesto.org/iso/de/principles.html)
+* [Pflichtenheft – Wikipedia](https://de.wikipedia.org/wiki/Pflichtenheft)
+* [Lastenheft – Wikipedia](https://de.wikipedia.org/wiki/Lastenheft)
 
 ### Styleguides (Beispiele)
-* http://www.mozilla.org/en-US/styleguide/
-* https://www.lightningdesignsystem.com/
-* http://www.bbc.co.uk/gel/guidelines/category/foundations
-* https://www.facebookbrand.com/
-* https://www.ethz.ch/services/de/service/kommunikation/corporate-design.html
+* [Mozilla Style Guide — Mozilla](http://www.mozilla.org/en-US/styleguide/)
+* [Lightning Design System](https://www.lightningdesignsystem.com/)
+* [BBC GEL | Foundations](http://www.bbc.co.uk/gel/guidelines/category/foundations)
+* [Facebook Brand Resources](https://www.facebookbrand.com/)
+* [Corporate Design – Services & Ressourcen | ETH Zürich](https://www.ethz.ch/services/de/service/kommunikation/corporate-design.html)
 
 ### Print & CSS
-* http://alistapart.com/article/goingtoprint/
-* https://web.archive.org/web/20080618200258/http://www.rg-metallbau.ch/referenzen-n6-i387-p1-sD.html (Beispiel)
+* [CSS Design: Going to Print](http://alistapart.com/article/goingtoprint/)
+* [Referenzen - R&G Metallbau AG](https://web.archive.org/web/20080618200258/[Referenzen - R&G Metallbau AG](http://www.rg-metallbau.ch/referenzen-n6-i387-p1-sD.html)) (Beispiel)
 
 ### Farbwahl/Farbenblind
-* http://colorbrewer2.org/
-* http://www.snook.ca/technical/colour_contrast/colour.html
-* https://medium.com/graphiq-engineering/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283
+* [ColorBrewer: Color Advice for Maps](http://colorbrewer2.org/)
+* [Colour Contrast Check](http://www.snook.ca/technical/colour_contrast/colour.html)
+* [Finding the Right Color Palettes for Data Visualizations](https://medium.com/graphiq-engineering/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283)
