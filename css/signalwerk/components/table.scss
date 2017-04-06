@@ -25,9 +25,20 @@ td, th {
 
 
 table {
-
-    .w_33p {
-      width: 33.33%;
+  @for $i from 1 through 20 {
+    .w#{$i * 5}p {
+      width: 5% * $i;
     }
+  }
 
+  @for $i from 1 through 10 {
+    .imgW#{$i}0p img {
+      width: 10% * $i;
+    }
+  }
+
+
+  .w33p {
+    width: 33.33%;
+  }
 }

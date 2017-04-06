@@ -11,9 +11,14 @@ code, kbd, pre, samp {
   }
 }
 
-ul code, p code {
+ul code, p code, table code {
   display: inline-block;
   background-color: #e3e3e3;
+  padding-right: 0.3rem;
+  padding-left: 0.3rem;
+  @media print {
+      -webkit-print-color-adjust: exact;
+  }
   font-size: map-get($fontFactors, p);
   @media print {
     font-size: map-get($fontSizesPrint, p);
@@ -28,7 +33,6 @@ ul code, p code {
     background-color: #e3e3e3;
     @media print {
         -webkit-print-color-adjust: exact;
-        background-color: #e3e3e3;
     }
 }
 

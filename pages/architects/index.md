@@ -77,3 +77,16 @@ Aufgezeigt werden müssen die Inhalte die zum Verständnis der Website beitragen
 * Typografie überlegt eingesetzt
 * Seitenarchitektur überlegt
 * Zweckmässigkeit gegeben
+
+
+<div class='header'></div>
+
+## Architekten – Update
+
+### Erweiterung
+Zusätzlich zur Aufgabestellung muss in den Entwürfen ein Suchfeld vorgesehen werden, welches auf jeder Seite (Desktop) sichtbar ist. Auch für die mobile Version muss eine geeignete und leicht zugängliche Suche  vorgeschlagen werden. Der Suchindex umschliesst auch hochgeladene PDF-Dateien. Im Suchergebnis soll klar ersichtlich sein, ob der Treffer nun in einem PDF war oder auf einer Seite und somit der Link auf eine Website führt oder ein PDF-Download ausführt.
+
+Zusätzlich soll die Website Zweisprachig werden (DE/EN) es muss möglich sein, einfach zwischen den Sprachen zu wechseln.
+
+### Abgabe
+Diese Erweiterung ist Bestand der Endgültigen Abgabe.

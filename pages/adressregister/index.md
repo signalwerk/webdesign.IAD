@@ -90,7 +90,7 @@ Jede Adresse kann 1–5 Kategorien aufweisen.
 \* = Immer vorhanden
 
 #### Maximal
-| Feld {.w_33p}        | Wert                           |
+| Feld {.w33p}        | Wert                           |
 |-------------|--------------------------------|
 | Titel*      | LILY’S Stomach Supply – Zürich |
 | Strasse*    | Langstrasse 197                |
@@ -104,7 +104,7 @@ Jede Adresse kann 1–5 Kategorien aufweisen.
 
 
 #### Minimal
-| Feld {.w_33p}        | Wert             |
+| Feld {.w33p}        | Wert             |
 |-------------|------------------|
 | Titel*      | Rosso            |
 | Strasse*    | Geroldstrasse 31 |

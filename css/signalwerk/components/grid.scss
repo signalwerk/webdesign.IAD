@@ -74,9 +74,27 @@
         background: transparent;
       }
     }
-
-
   }
+
+
+  &.box.bg {
+    background-color: #e3e3e3;
+    @media print {
+        -webkit-print-color-adjust: exact;
+    }
+    &.bigpadding{
+      padding-top: 0.1rem;
+      padding-bottom: 0.6rem;
+      padding-right: 1rem;
+      padding-left: 1rem;
+
+    }
+  }
+
+
+
+
+
 }
 
 

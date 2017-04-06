@@ -40,4 +40,11 @@ title: Inhalt
 * [Technologie · Fontdarstellung](/fontrendering/)
 
 
+### Lesen · Tag 7
+* [Gestaltung · Detailtypografie & Mengentext](/typography/)
+* [Technologie · Lizenzen & Rechte](/law/)
+* [Feedback · Adressregister](/marks/)
+
+
+
 :::

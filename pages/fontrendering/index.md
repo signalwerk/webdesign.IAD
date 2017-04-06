@@ -27,7 +27,7 @@ Seit Computer eine Darstellung an einem Bildschirm aufweisen, wurde immer wieder
 
 
 ### Web Safe Fonts (Systemfonts)
-Unter Systemfonts wird häufig eine Auswahl an Schriften verstanden, die zu einer sehr hohen Wahrscheinlichkeit auf dem Betriebssystem installiert ist, auf dem ein Browser eine Website darstellt. Somit ist der Browser in der Lage diesen Font zu verwenden und es muss kein zusätzlicher Font übertragen werden. Die Auswahl dieser Fonts ist sehr beschränkt und variiert stark von Betriebssystem zu Betriebssystem. Um dennoch die Gestaltung mehr oder weniger im Griff zu behalten, werden in einem CSS sogenannte Fallbacks angegeben. Das heisst, wenn eine Schrift nicht vorhanden ist, so kommt eine andere zum Einsatz.
+Unter Systemfonts wird häufig eine Auswahl an Schriften verstanden, die zu einer sehr hohen Wahrscheinlichkeit auf dem Betriebssystem installiert sind, auf dem ein Browser eine Website darstellt. Somit ist der Browser in der Lage diesen Font zu verwenden und es muss kein zusätzlicher Font übertragen werden. Die Auswahl dieser Fonts ist sehr beschränkt und variiert stark von Betriebssystem zu Betriebssystem. Um dennoch die Gestaltung mehr oder weniger unter Kontrolle zu behalten, werden in einem CSS sogenannte Fallbacks angegeben. Das heisst, wenn eine Schrift nicht vorhanden ist, so kommt eine andere zum Einsatz.
 
 
 #### Beispiel
@@ -233,12 +233,6 @@ Konturen werden optimiert für Rasterung.
 :::::
 
 
-<br>
-<br>
-
-### Hintint bewirkt ein klareres Schriftbild
-Font mit (links) und ohne (rechts) Hints können extrem von einander abweichen.
-
 
 
 <div class='header'></div>
@@ -246,7 +240,7 @@ Font mit (links) und ohne (rechts) Hints können extrem von einander abweichen.
 
 ## TrueType vs. PostScript
 Da der Aufwand einen Font mit guten Hints (Anweisungen) zu versehen sehr gross ist, sind nicht alle Fonts gleich gut optimiert und somit auch in der Qualität der Anzeige extrem verschieden. Häufig werden Schriften, die vorwiedgend für den Druck gezeichnet wurden, lediglich über eine automatische Hinting-Funktion optimiert. Dies führt nicht zu der selben Qualität in der Anzeige, wie wenn die Instruktionen von Hand eingefügt wurden.
-PostScript basierte Schriften (OpenType PS & PostScript Type 1) ermöglichen weniger genaues Hintig wie TrueType (OpenType TT & TrueType) basierte Schriften.
+PostScript basierte Schriften (OpenType PS & PostScript Type 1) ermöglichen weniger genaues Hintig wie TrueType basierte Schriften (OpenType TT & TrueType).
 
 <br>
 <br>
@@ -288,7 +282,7 @@ Stammstärken und Schriftlinie wirken nicht durchgehend.
 MS-Renderer – Graustufen  
 Microsoft Arial Unicode
 ::::
-Oft wird im Web und bei eBooks eine Darstellung der Schrift mit Schriftglättung gewählt. Die Schrift erscheint oftmals weicher aber auch besser lesbar. Charaktereigenschaften in Zeichen können mit Graustufen auch in einem Pixel-Raster mit wenig Auflösung relativ gut erahnt werden.
+Oft wird im Web und bei eBooks eine Darstellung der Schrift mit Schriftglättung gewählt. Die Schrift erscheint weicher aber auch besser lesbar. Charaktereigenschaften in Zeichen können mit Graustufen auch in einem Pixel-Raster mit wenig Auflösung relativ gut erahnt werden.
 
 
 <br>
@@ -393,6 +387,55 @@ Microsoft Arial Unicode – 12 Pixel Höhe (PPM)
 
 
 
+
+<div class='header'></div>
+
+## Farbige Fonts
+Es gibt vier verschiedene Möglichkeiten, wie in einem OpenType-Font farbige Elemente definiert werden können. Abweichende «Standards» wurden jeweils separat von folgenden Parteien entwickelt;
+
+* Microsoft (COLR/CPAL)
+* Apple (SBIX)
+* Google (CBDT/CBLC)
+* Adobe/Mozilla (SVG)
+
+Da es somit technisch kompliziert ist für einen Renderer alle vier Definitionen zu unterstützen, ist die Verbreitung von farbigen Fonts sehr gering. Betriebsysteme bieten üblicherweise einen farbigen Emoji-Font, passend auf das jeweilige Betriebsystem, an. Jedoch gibt es darüber hinau wenige Fonts, die diese Technologie nutzen, da es auch für Schriftgestalter technisch mühsam ist alle Standards zu unterstützen.
+
+### Einfärben
+<br>
+
+![Emoji-Font und die verschiedenen Layer](./img/winemoji.png)
+
+Einige Technologien unterstützen auch das Einfärben einzelner Layer oder Teile.
+
+Bildquelle: https://typography.guru/journal/windows-color-fonts/
+<br>
+<br>
+
+### Fallback
+::::: grid fullsize space2
+
+:::: col_6of12
+
+![Farbiger Font gerendert auf einem Renderer, der dies nicht unterstützt](./img/colorfontsFallback.png)
+
+Farbige Fonts können nur von wenigen Programmen angezeigt werden. Renderer die Farbige Fonts nicht unterstützen zeigen lediglich die S/W-Version an.
+::::
+
+:::: col_6of12_last
+
+![Farbiger Font](./img/colorfontsEnahnced.png)
+::::
+
+Ist der Renderer in der Lage die neuen Instruktionen im Font zu lesen, so kann die farbige Version angezeigt werden.
+:::::
+
+
+
+
+
+
+
+
 <div class='header'></div>
 
 ::: margin printonly
@@ -423,6 +466,9 @@ März 2017: Erweiterung
 * http://googledevelopers.blogspot.hu/2015/02/smaller-fonts-with-woff-20-and-unicode.html
 
 ### Farbige Fonts
+* https://pixelambacht.nl/2014/multicolor-fonts/
+* https://color.typekit.com/
+* https://helpx.adobe.com/typekit/using/ot-svg-color-fonts.html
 * http://manufacturaindependente.com/colorfont/
 * http://typography.guru/journal/windows-color-fonts/
 * https://en.wikipedia.org/wiki/OpenType#Color

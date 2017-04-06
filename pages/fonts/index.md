@@ -15,7 +15,7 @@ title: Fonts
 #### Mieten von Desktop-Fonts
 Auf fontstand.com können Desktop-Fonts gemietet werden. Dies ermöglicht Entwürfe dem Kunden vor zu legen, ohne den Font gekauft zu haben.
 :::
-Fonts für Web- und Screendesign können von fast allen grossen und kleinen Font-Foundrys erworben werden. Es gibt vereinzelt Schriften, die (noch) nicht für den Web-Einsatz lizenziert werden können, dies ist jedoch eher die Ausnahme. Für Anwendungen ausserhalb des Webs – aber auf Screens – gibt es relativ wenige Anbieter. So bietet zum Beispiel Linotype auch für eBooks, Apps und Server-Anwendungen Lizenzen, diese Lizenztypen sind jedoch bei anderen Firmen oft nur mit Verhandlungen zu erwerben und es gibt keine standardisierten Prozesse.
+Fonts für Web- und Screendesign können von fast allen grossen und kleinen Font-Foundrys erworben werden. Es gibt vereinzelt Schriften, die (noch) nicht für den Web-Einsatz lizenziert werden können, dies ist jedoch eher die Ausnahme. Für Anwendungen ausserhalb des Webs – aber auf Screens – gibt es eher wenige Anbieter. So bietet zum Beispiel Linotype auch für eBooks, Apps und Server-Anwendungen Lizenzen. Diese Lizenztypen sind jedoch bei anderen Firmen oft nur mit Verhandlungen zu erwerben und es gibt keine standardisierten Prozesse.
 Das Vorgehen zur Recherche von neuen Schriften unterscheidet sich nicht wesentlich vom finden von Schriften für den Print-Bereich. Sucht man eine Schrift, deren Name schon bekannt ist, so kann direkt zum Anbieter gesprungen werden. Ist man eher auf der Suche nach einem bestimmten Stil, kann eine Font-Plattform wie myfonts.com genutzt werden um ein entsprechendes Design zu finden.
 
 ### Testen
@@ -56,18 +56,18 @@ Dies erleichtert die Wahl eines geeigneten Fonts und zudem kann dem Kunden berei
 Es gibt grundsätzlich drei verschiedene Arten von kommerziellen Font-Lizenzen:
 
 
-### Zeichensatz
-Wird die Schrift auf einer Seite eingesetzt, bei der viele Sprachen oder sonst spezielle Zeichen vorkommen, so ist es empfehlenswert zu Prüfen, ob die Schrift auch den nötigen Zeichensatz abdeckt. Auch OpenType-Features werden von den Schriftherstellern normalerweise vor dem Kauf angegeben.
-
 ### Miet-Lizenzen
-Beim mieten von Lizenzen wird meist ein ein View-Volumen pro Monat gekauft unabhängig jedoch von der Anzahl der Fonts. So kann zum Beispiel bei fonts.com ein Account erworben werden, der 50 000 Pageviews pro Monat auf einer Domain erlaubt. Wird diese Zahl überschritten, muss auf ein höherer Preisplan gewechselt werden. Oft kann ein Account für diverse Projekte gleichzeitig verwendet werden. Die Fonts sind beim Anbieter gehostet.
+Beim mieten von Lizenzen wird meist ein View-Volumen pro Monat gekauft unabhängig jedoch von der Anzahl der Fonts. So kann zum Beispiel bei fonts.com ein Account erworben werden, der 50 000 Pageviews pro Monat auf einer Domain erlaubt. Wird diese Zahl überschritten, muss auf ein höherer Preisplan gewechselt werden. Oft kann ein Account für diverse Projekte gleichzeitig verwendet werden. Die Fonts sind beim Anbieter gehostet.
 
-### Kaufen von Lizenzen
-Bei relativ wenigen Anbietern kann auch eine Lizenz erworben werden, die auf dem eigenen Web-Server installiert werden kann. Die Schrift wird auf dem eigenen Server installiert und der Schriftenanbieter vertraut darauf, dass der Käufer die Anzahl Views, für die Lizenziert wurde, nicht überschritten wird.
+### Einmalige Lizenzkosten
+Bei immer wenigen Anbietern kann eine Lizenz einmalig erworben werden. Bei einer solchen Lizenz wird diee Schrift meist auf dem eigenen Server installiert und der Schriftenanbieter vertraut darauf, dass der Käufer die Anzahl Views pro Monat, für die Lizenziert wurde, nicht überschritten wird.
 
 ### Kaufen von Views
 Es gibt Anbieter, die Views verkaufen. Das heisst, dass mit jedem Besuch einer Webseite mit dem Font das erworbene «Konto» um ein View reduziert wird. Somit muss die Schrift von Zeit zu Zeit wieder mit neuen Views aktiviert werden, so dass immer genügend Views vorhanden sind. Oder aber das Konto erneuert sich immer am Ende des Monats neu.
 
+
+### Zeichensatz
+Wird die Schrift auf einer Seite eingesetzt, bei der viele Sprachen oder sonst spezielle Zeichen vorkommen, so ist es empfehlenswert zu Prüfen, ob die Schrift auch den nötigen Zeichensatz abdeckt. Auch OpenType-Features werden von den Schriftherstellern normalerweise vor dem Kauf angegeben.
 
 <div class='header'></div>
 
@@ -95,14 +95,14 @@ Im nebenstehenden Beispiel sieht man, dass für $32 pro Monat eine Million Views
 <div class='header'></div>
 
 ## Iconfonts
-Icons werden auf Websites oft verwendet um Inhalte schneller und einfacher zugänglich zu machen. Aus technischer Sicht ist es relativ einfach – für einen Programmierer – diese Icons aus einem Font zu machen. Zudem haben solche Icons den Vorteil, dass Sie auf vielen Betriebsystemen und Browsern funktionieren und vektorbasiert aufgebaut sind. Als Nachteil ist zu beklagen, dass für die Accessibility (Menschen mit Behinderung einen Zugang ermöglichen) es oftmals keine gute Idee ist, die Icons mit Schrift zu machen, da die Zeichen dann als Inhalt verstanden werden und zum Beispiel Screen-Reader damit Probleme haben können.
+Icons werden auf Websites oft verwendet um Inhalte schneller und einfacher zugänglich zu machen. Aus technischer Sicht ist es relativ einfach – für einen Programmierer – diese Icons in einen Font zu konvertieren. Zudem haben solche Icons den Vorteil, dass Sie auf vielen Betriebsystemen und Browsern funktionieren und vektorbasiert aufgebaut sind. Als Nachteil ist zu beklagen, dass für die Accessibility (Menschen mit Behinderung einen Zugang ermöglichen) es oftmals keine gute Idee ist, die Icons mit Schrift zu machen, da die Zeichen dann als Inhalt verstanden werden und zum Beispiel Screen-Reader damit Probleme haben können.
 
 <br>
 <br>
 
 ::: margin
 ### Iconfonts optimieren
-Fontello.com bietet die Möglichkeit aus diversen freien Icon-Fonts sich die nötigen Icons zu suchen und dann einen eignenen Icon-Font daraus zu erstellen.
+Fontello.com bietet die Möglichkeit aus diversen freien Icon-Fonts sich die nötigen Icons zu suchen und dann einen eignenen Icon-Font daraus zu erstellen. Auch können eigene Icons in den Font eingebunden werden.
 :::
 
 ::: imageline
@@ -143,8 +143,60 @@ Fontwechsel – Auswechseln von Fonts abhängig von der Fenstergrösse.
 
 <div class='header'></div>
 
+## Parametrische Fonts
+
+
+Bei Parametrischen Fonts führen veränderte Input-Parameter zu anders erzeugten Fonts. Dieses Konzept gibt es seit spätestens 1984 als Donald Knuth mit Metafont ein System präsentierte, welches Fonts mit unbeschränkt vielen Parametern versehen lässt.
+
+<br>
+
+:::: margin
+::: grid w80p
+![Experimente mit metaflop.com](./img/metaflop.svg)
+:::
+
+<br>
+Im Jahr 2012 entstand mit metaflop.com ein Font-Generator zum Erzeugen eines Fonts mittels Parametrischen eingaben. Einzelne Instanzen können als Font herunntergeladen werden.
+::::
+::: imageline
+![Prototypo – Font-Generator](./img/Prototypo-new-UI.jpg)
+:::
+Im Jahr 2014 startete mit «prototypo.io» zum ersten mal eine leicht zugängliche und einfach zu bedienende Web-App zum modifizieren parametrischer Fonts. Mittels Schiebereglern kann ein zuvor von den Machern definiertes Font-Model angepasst werden und dann als Font herunntergeladen werden. Die Fonts können dann in eine Website eingebunden oder auf dem Desktop verwendet werden.
+<br>
+<br>
+
+#### Interpolation für Websites
+Im Jahr 2015 entstanden die ersten JavaScript-Experimente mit denen Fonts live im Web-Browser interpoliert wurden und dann für die Anzeige verwendet wurden. Somit konnte auf die Umstände der Anzeige (Bildschirmgrösse, Gerät, ...) reagiert werden. Dieses Konzept war jedoch technisch nicht ausgereift genug für produktive Systeme. Es war eher ein «proof of concept».
+
+<br>
+
+
+::: grid
+![Anpassen von Fonts gemäss Fensterbreite](./img/InterpolationAll.png)
+:::
+Anpassen des Fonts je nach Fenstergrösse.
+
+Bildquelle: http://alistapart.com/d/412/interpolation/
+
+
+
+
+
+
+
+
+
+
+<div class='header'></div>
+
+
+
 ## Variable Fonts
-Im Oktober 2016 hat ein breites Konsortium von diversen Herstellern den OpenType Standard mit der Version 1.8 angekündigt. Adobe, Google, Microsoft und Andere haben angekündigt diesen Standard bald in Ihre Software-Produkte zu integireren. Neben diversen eher technischen Erneuerungen ist vor allem die Möglichkeit für «Variable Fonts» für Gestalter heraus zu streichen. Mit dieser Funktion können Fonts mehrere so genannte Design-Achsen haben. Man kann also Fonts so einrichten, dass Sie zum Beispiel von ganz Light zu super Black stuffenlos (oder mit vom Designer gewählten Stufen) einstellbar sind. Aber auch andere Design-Achsen lassen sich frei vom Schriftdesinger bestimmen. Diese Technologie erinnert an die «Multiple master fonts» (1991), jedoch wird sich der neue Standard wohl besser verbreiten als die damalige Technologie.
+
+Im Oktober 2016 hatte ein breites Konsortium von diversen Herstellern den OpenType-Standard mit der Version 1.8 angekündigt. Adobe, Google, Microsoft und Andere haben zugesagt diesen Standard bald in Ihre Software-Produkte zu integireren. Neben diversen eher technischen Erneuerungen ist vor allem die Möglichkeit für «Variable Fonts» für Gestalter heraus zu streichen. Mit dieser Funktion können Fonts mehrere so genannte Design-Achsen haben. Man kann also Fonts so einrichten, dass Sie zum Beispiel von ganz Light zu super Black stuffenlos (oder mit vom Designer gewählten Stufen) einstellbar sind. Aber auch andere Design-Achsen lassen sich frei vom Schriftdesinger bestimmen. Diese Technologie erinnert an die «Multiple master fonts» (1991), jedoch wird sich der neue Standard wohl besser verbreiten als die damalige Technologie.
+
+
+
 
 ### CSS und Web
 Im Moment werden Variable Fonts gerade in die Software-Produkte eingebaut. Erste Test-Versionen sind für Entwickler zugägnlich. Folgende CSS-Attribute sind vom Standard vorgesehen:
@@ -155,9 +207,12 @@ Im Moment werden Variable Fonts gerade in die Software-Produkte eingebaut. Erste
 * `font-optical-sizing` – Optische Schriftgrösen ein- oder ausschalten
 
 <br>
-<br>
 
-Daneben lassen sich aber auch weitere Werte-Achsen wie folgt definieren
+Daneben lassen sich aber auch weitere Werte-Achsen wie folgt definieren;
+
+::: margin
+Hier wird jeweils eine Werte-Achse mit vier Buchstaben (vom Designer bestimmt) mit einem Wert angewandt.
+:::
 
 ::: code
 <pre>
@@ -166,27 +221,10 @@ p {
 }
 </pre>
 :::
-Hier wird jeweils eine Werte-Achse mit vier Buchstaben (vom Designer bestimmt) mit einem Wert angewandt.
 
 
 
 
-
-
-
-
-### Vorläufer
-Bevor OpenType 1.8 erschien, hatten bereits einige Programmierer einen ähnlichen Effekt mittels JavaScript erziehlt. Dies waren aber eher Experimente, denn wirklich im realen Einsatz.
-
-<br>
-<br>
-
-::: grid fullsize
-![Anpassen von Fonts gemäss Fensterbreite](./img/InterpolationAll.png)
-Fontinterpolation – Anpassen des Fonts je nach Fenstergrösse.
-
-Bildquelle: http://alistapart.com/d/412/interpolation/
-:::
 
 
 
@@ -210,7 +248,7 @@ März 2017: Erweiterung
 
 
 ### Schriften Testsen
-* http://typecast.com (über https://www.google.com/fonts/ auch ohne Account)
+* http://typecast.com (über https://fonts.google.com/ auch ohne Account)
 
 ### Schriften erwerben
 * https://www.myfonts.com/
