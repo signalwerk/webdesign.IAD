@@ -134,5 +134,5 @@ März 2017: Erweiterung
 ### Material Deisgn
 * [Material design - YouTube](https://youtu.be/Q8TXgCzxEnw)
 * [google - Material design guidelines](https://www.google.com/design/spec/material-design/)
-* [Material Design Resources and Tutorials — SitePoint](http://www.sitepoint.com/10-essential-material-design-resources-and-tutorials/)
+* [Material Design Resources and Tutorials — SitePoint](http://www.sitepoint.com/10-essential-material-design-resources-and-tutorials/)
 * [Materialize CSS Library](http://materializecss.com/)

@@ -335,7 +335,7 @@ März 2017: Erweiterung
 
 
 ### Navigationen nach Zeit
-* [Nelson Mandela – TIME.com](http://world.time.com/2013/12/05/nelson-mandelas-extraordinary-life-an-interactive-timeline/)
+* [Nelson Mandela – TIME.com](http://world.time.com/2013/12/05/nelson-mandelas-extraordinary-life-an-interactive-timeline/)
 * [holgi –| Flickr](https://www.flickr.com/photos/holgi/)
 * [Balthasar Glättli – Twitter](https://twitter.com/bglaettli)
 * [Facebook](https://de-de.facebook.com/Zukkihund)
@@ -352,7 +352,7 @@ März 2017: Erweiterung
 * [Monet im Städel Museum Frankfurt](http://monet.staedelmuseum.de)
 * [Iouri Podladtchikov – NZZ.ch](http://iouri-in-sotschi.nzz.ch/en/)
 * [The Needle Trauma – tagesanzeiger.ch](http://www.tagesanzeiger.ch/extern/storytelling/platzspitz/)
-* [Paul Ford: What Is Code? – Bloomberg](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+* [Paul Ford: What Is Code? – Bloomberg](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
 ### Aktuelle Web-Trends
 * [Grimme Online Award](http://www.grimme-online-award.de)

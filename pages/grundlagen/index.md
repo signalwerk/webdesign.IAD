@@ -151,7 +151,7 @@ Februar 2017: Erweiterung
 
 ### Bedeutung und Wachstum von Technologien
 * [Growth of the Internet](http://www.dtc.umn.edu/~odlyzko/doc/oft.internet.growth.pdf)
-* [Unnatural Monopoly: Critical Moments in the Development of the Bell System Monopoly](http://object.cato.org/sites/cato.org/files/serials/files/cato-journal/1994/11/cj14n2-6.pdf)
+* [Unnatural Monopoly: Critical Moments in the Development of the Bell System Monopoly](http://object.cato.org/sites/cato.org/files/serials/files/cato-journal/1994/11/cj14n2-6.pdf)
 * [ICT Facts and Figures 2016](http://www.itu.int/en/ITU-D/Statistics/Pages/facts/)
-* [100-Year of Technology – Graph](https://www.theatlantic.com/technology/archive/2012/04/the-100-year-march-of-technology-in-1-graph/255573/)
+* [100-Year of Technology – Graph](https://www.theatlantic.com/technology/archive/2012/04/the-100-year-march-of-technology-in-1-graph/255573/)
 * [You Are What You Spend - The New York Times](http://www.nytimes.com/2008/02/10/opinion/10cox.html)

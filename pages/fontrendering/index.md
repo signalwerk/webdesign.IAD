@@ -454,16 +454,16 @@ März 2017: Erweiterung
 
 
 ### Subpixel-Rendering
-* [Subpixel-Rendering – Wikipedia](http://de.wikipedia.org/wiki/Subpixel-Rendering)
+* [Subpixel-Rendering – Wikipedia](http://de.wikipedia.org/wiki/Subpixel-Rendering)
 
 ### Fonts in Webfonts konvertieren
 * [Font Squirrel](http://www.fontsquirrel.com/tools/webfont-generator)
 
 ### Webfonts und Kompression von Webfonts
-* [Web Open Font Format - Wikipedia](https://en.wikipedia.org/wiki/Web_Open_Font_Format)
+* [Web Open Font Format - Wikipedia](https://en.wikipedia.org/wiki/Web_Open_Font_Format)
 * [WOFF File Format 1.0](http://www.w3.org/TR/WOFF/)
 * [WOFF File Format 2.0](https://www.w3.org/TR/WOFF2/)
-* [Google Developers Blog – WOFF 2.0](http://googledevelopers.blogspot.hu/2015/02/smaller-fonts-with-woff-20-and-unicode.html)
+* [Google Developers Blog – WOFF 2.0](http://googledevelopers.blogspot.hu/2015/02/smaller-fonts-with-woff-20-and-unicode.html)
 
 ### Farbige Fonts
 * [Pixelambacht – multicolor fonts](https://pixelambacht.nl/2014/multicolor-fonts/)

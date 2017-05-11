@@ -225,7 +225,7 @@ werden, um Information zu reduzieren.
 <br>
 
 ::: margin
-Quelle: [Digitale Gesellschaft – Vorratsdatenspeicherung](https://www.digitale-gesellschaft.ch/vds.html)
+Quelle: [Digitale Gesellschaft – Vorratsdatenspeicherung](https://www.digitale-gesellschaft.ch/vds.html)
 :::
 ![Ablauf Glaettli](./img/glaettli.png)
 
@@ -303,6 +303,6 @@ März 2017: Erweiterung
 ### Info-Grafiken
 * [Galaxy of Covers](https://lab.interactivethings.com/galaxy-of-covers/)
 * [tagesanzeiger.ch – Maps](http://www.tagesanzeiger.ch/23568013)
-* [Location Matters - NYTimes.com](http://www.nytimes.com/2013/07/22/business/in-climbing-income-ladder-location-matters.html)
+* [Location Matters - NYTimes.com](http://www.nytimes.com/2013/07/22/business/in-climbing-income-ladder-location-matters.html)
 * [Digitale Gesellschaft – Vorratsdatenspeicherung](https://www.digitale-gesellschaft.ch/vds.html)
-* [512 Paths to the White House -  NYTimes.com](http://www.nytimes.com/interactive/2012/11/02/us/politics/paths-to-the-white-house.html)
+* [512 Paths to the White House -  NYTimes.com](http://www.nytimes.com/interactive/2012/11/02/us/politics/paths-to-the-white-house.html)

@@ -661,11 +661,11 @@ März 2017: Erweiterung
 * [CSS Reference](http://www.w3schools.com/cssref)
 
 ### Platzhalter-Bilder
-* [lorempixel.com](http://lorempixel.com/)
+* [lorempixel.com](http://lorempixel.com/)
 * [Placehold.it](http://placehold.it/)
 
 ### Ein Inhalt viele Designs
 * [CSS Zen Garden](http://www.csszengarden.com/)
 
 ### Code und dessen Bedeutung
-* [Paul Ford: What Is Code? | Bloomberg](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+* [Paul Ford: What Is Code? | Bloomberg](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)

@@ -38,11 +38,11 @@ In HTML gibt es die meisten Zeichen, die im Print verwendet werden auch als HTML
 | `<br>`   | Der br-Tag erzeugt eine neue Zeile                                                                                           |
 | –      | Halbgeviertstrich  kann auch in HTML verwendet werden                                                                        |
 | → ←    | Reduzierter Wortabstand (Unicode U+2009 THIN SPACE)                                                                          |
-| m² m³  | Hochgestellte Zahlen werden nicht durch eine Formatierung hoch gestellt, sondern als hochgestellte Zahlen eingegeben.       |
+| m² m³  | Hochgestellte Zahlen werden nicht durch eine Formatierung hoch gestellt, sondern als hochgestellte Zahlen eingegeben.       |
 | 5 × 5  | Multiplikationszeichen anstatt ein x                                                                                         |
 | «Hi!»  | In der Schweiz gebräuchliche Anführungszeichen                                                                               |
-| `&nbsp;` | Nicht trennende Stellen werden mit einem «Non-breaking space» eingegeben.                                                   |
-| `&shy;`  | Möchte man dem Browser anzeigen, dass er an einer stelle im Wort trennen kann, so kann dies mit diesem Code gemacht werden. |
+| `&nbsp;` | Nicht trennende Stellen werden mit einem «Non-breaking space» eingegeben.                                                   |
+| `&shy;`  | Möchte man dem Browser anzeigen, dass er an einer stelle im Wort trennen kann, so kann dies mit diesem Code gemacht werden. |
 
 
 
@@ -162,17 +162,17 @@ März 2017: Erweiterung
 
 ### Typografie im Web
 * [A Pocket Guide to Master Every Day’s Typographic Adventures](http://www.typogui.de/)
-* [CSS Properties to Control Web Typography](http://www.sitepoint.com/css-properties-to-control-web-typography/)
+* [CSS Properties to Control Web Typography](http://www.sitepoint.com/css-properties-to-control-web-typography/)
 * [Typography Cheatsheet](http://www.typewolf.com/cheatsheet)
 
 ### OpenType im Web
 * [CSS 3 Font-Feature-Settings OpenType](http://clagnut.com/sandbox/css3/)
-* [graphic design and typography](https://www.typotheque.com/articles/opentype_features_in_web_browsers_-_tests)
+* [graphic design and typography](https://www.typotheque.com/articles/opentype_features_in_web_browsers_-_tests)
 * [Syntax for OpenType features in CSS](https://helpx.adobe.com/typekit/using/open-type-syntax.html)
 * [Kerning on the Web](http://blog.typekit.com/2014/02/05/kerning-on-the-web/)
 
 ### Trennungen im Blocksatz
-* [Control of hyphenation with CSS4](http://generatedcontent.org/post/44751461516/finer-grained-control-of-hyphenation-with-css4)
+* [Control of hyphenation with CSS4](http://generatedcontent.org/post/44751461516/finer-grained-control-of-hyphenation-with-css4)
 * [CSS Text Module Level 4](https://drafts.csswg.org/css-text-4/)
 * [Word wrapping/hyphenation using CSS](https://kenneth.io/blog/2012/03/04/word-wrapping-hypernation-using-css/)
 

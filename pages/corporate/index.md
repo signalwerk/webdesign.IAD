@@ -129,17 +129,17 @@ Die Auswahl der Fonts für eine Website ist nicht immer ganz frei. Es kann sein,
 
 #### Wichtige Punkte zur Typografie
 * Lizenzierung vor Fontwahl klären
-* Fonts bei jeglicher digitaler Kommunikation verwenden
-* Zeilenabstand als ein Vielfaches der Schriftgrösse definieren
-* Laufweiten für verschiedene Schriftgrössen angeben
+* Fonts bei jeglicher digitaler Kommunikation verwenden
+* Zeilenabstand als ein Vielfaches der Schriftgrösse definieren
+* Laufweiten für verschiedene Schriftgrössen angeben
 
 
 ### Farben
 Die Wahl des Farbraums ist auf RGB beschränkt. Die Definition von RGB-Farben sollten wenn möglich im sRGB-Farbraum beschrieben sein, da dieser einen guten Durchschnitt der Fähigkeit von allgemein verfügbaren Bildschirmen darstellt. Die Farbstabilität von Bildschirm zu Bildschirm ist nicht gegeben und wenn möglich sollte dieser Umstand dennoch nicht zu einer starken Farbverschiebung führen. Tertiäre Farben sind also eher zu vermeiden.
 
 #### Wichtige Punkte zu den Farben
-* Farben als RGB definieren (sRGB-Farbprofil)
-* Farbenkontrast für Farbenblinde (2 – 3% aller Menschen) testen
+* Farben als RGB definieren (sRGB-Farbprofil)
+* Farbenkontrast für Farbenblinde (2 – 3% aller Menschen) testen
 
 ### Barrierefrei (accessibility)
 Da das Internet je länger je mehr auch von Leuten mit Behinderungen und Einschränkungen benutzt wird, empfiehlt es sich, auch mit einem Corporate Design solchen Leuten den Zugang nicht zu erschweren, sondern zu vereinfachen.
@@ -236,11 +236,11 @@ März 2017: Erweiterung
 * [Lightning Design System](https://www.lightningdesignsystem.com/)
 * [BBC GEL | Foundations](http://www.bbc.co.uk/gel/guidelines/category/foundations)
 * [Facebook Brand Resources](https://www.facebookbrand.com/)
-* [Corporate Design – Services & Ressourcen | ETH Zürich](https://www.ethz.ch/services/de/service/kommunikation/corporate-design.html)
+* [Corporate Design – Services & Ressourcen | ETH Zürich](https://www.ethz.ch/services/de/service/kommunikation/corporate-design.html)
 
 ### Print & CSS
 * [CSS Design: Going to Print](http://alistapart.com/article/goingtoprint/)
-* [Referenzen - R&G Metallbau AG](https://web.archive.org/web/20080618200258/[Referenzen - R&G Metallbau AG](http://www.rg-metallbau.ch/referenzen-n6-i387-p1-sD.html)) (Beispiel)
+* [Referenzen - R&G Metallbau AG](https://web.archive.org/web/20080618200258/[Referenzen - R&G Metallbau AG](http://www.rg-metallbau.ch/referenzen-n6-i387-p1-sD.html)) (Beispiel)
 
 ### Farbwahl/Farbenblind
 * [ColorBrewer: Color Advice for Maps](http://colorbrewer2.org/)

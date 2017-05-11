@@ -50,7 +50,7 @@ Stand: 1. Januar 2017
 
 ::: grid box bg bigpadding
 #### Art. 25 Zitate
-¹ Veröffentlichte Werke dürfen zitiert werden, wenn das Zitat zur Erläuterung, als Hinweis oder zur Veranschaulichung dient und der Umfang des Zitats durch diesen Zweck gerechtfertigt ist.
+¹ Veröffentlichte Werke dürfen zitiert werden, wenn das Zitat zur Erläuterung, als Hinweis oder zur Veranschaulichung dient und der Umfang des Zitats durch diesen Zweck gerechtfertigt ist.
 
 ² Das Zitat als solches und die Quelle müssen bezeichnet werden. Wird in der Quelle auf die Urheberschaft hingewiesen, so ist diese ebenfalls anzugeben.
 
@@ -88,7 +88,7 @@ Stand: 1. Januar 2017
 
 ::: grid box bg bigpadding
 #### Art. 27 Werke auf allgemein zugänglichem Grund
-¹ Ein Werk, das sich bleibend an oder auf allgemein zugänglichem Grund befindet, darf abgebildet werden; die Abbildung darf angeboten, veräussert, gesendet oder sonst wie verbreitet werden.
+¹ Ein Werk, das sich bleibend an oder auf allgemein zugänglichem Grund befindet, darf abgebildet werden; die Abbildung darf angeboten, veräussert, gesendet oder sonst wie verbreitet werden.
 
 ² Die Abbildung darf nicht dreidimensional und auch nicht zum gleichen Zweck wie das Original verwendbar sein.
 
@@ -213,22 +213,22 @@ März 2017: Erweiterung
 
 
 ### Impressumspflicht Schweiz
-* [Impressumspflicht – Steiger Legal](http://www.steigerlegal.ch/2011/11/10/e-commerce-impressumspflicht-in-der-schweiz-ab-2012/)
+* [Impressumspflicht – Steiger Legal](http://www.steigerlegal.ch/2011/11/10/e-commerce-impressumspflicht-in-der-schweiz-ab-2012/)
 
 ### Spam in der Schweiz
-* [Anti-Spam Gesetzgebung Schweiz – Frick & Partner](http://www.frick-partner.ch/downloads/frick_partner_anti_spam_gesetzgebung_schweiz.pdf)
+* [Anti-Spam Gesetzgebung Schweiz – Frick & Partner](http://www.frick-partner.ch/downloads/frick_partner_anti_spam_gesetzgebung_schweiz.pdf)
 
 ### Medienrecht Schweiz
 * [Medienrecht Schweiz](https://wifimaku.com/medienrecht-schweiz/medienrecht-schweiz-5144601.html)
 
 ### Links & Include
-* [Einbinden fremder Inhalte im Web](http://www.kpw-law.de/2014/10/24/einbinden-fremder-inhalte-im-web-ist-keine-urheberrechtsverletzung/)
+* [Einbinden fremder Inhalte im Web](http://www.kpw-law.de/2014/10/24/einbinden-fremder-inhalte-im-web-ist-keine-urheberrechtsverletzung/)
 
 ### Bildder im Internet
-* [Bildverwendung im internet – Steiger Legal](https://www.steigerlegal.ch/wp-content/uploads/2013/01/blogwerk_whitepaper_bildverwendung-im-internet_201204.pdf)
+* [Bildverwendung im internet – Steiger Legal](https://www.steigerlegal.ch/wp-content/uploads/2013/01/blogwerk_whitepaper_bildverwendung-im-internet_201204.pdf)
 
 ### Haftung für Links
-* [Zulässigkeit von und Haftung für Hyperlinks – Wikipedia](https://de.wikipedia.org/wiki/Zul%C3%A4ssigkeit_von_und_Haftung_f%C3%BCr_Hyperlinks)
+* [Zulässigkeit von und Haftung für Hyperlinks – Wikipedia](https://de.wikipedia.org/wiki/Zul%C3%A4ssigkeit_von_und_Haftung_f%C3%BCr_Hyperlinks)
 * [Zivilrechtliche Haftung im Internet](http://www.rwi.uzh.ch/oe/zik/archiv/ZivilrechtlHaftungInternet.pdf)
 
 ### Freie software Lizenzen

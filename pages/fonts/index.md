@@ -248,7 +248,7 @@ März 2017: Erweiterung
 
 
 ### Schriften Testsen
-* [Typecast](http://typecast.com) (über [Google Fonts](https://fonts.google.com/) auch ohne Account)
+* [Typecast](http://typecast.com) (über [Google Fonts](https://fonts.google.com/) auch ohne Account)
 
 ### Schriften erwerben
 * [MyFonts](https://www.myfonts.com/)

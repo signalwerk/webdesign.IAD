@@ -67,6 +67,9 @@ Mobile Geräte haben einen sehr starken Zuwachs und machen jedes Jahre in den St
 #### Schweiz
 Internetnutzung
 nach Gerätetypen
+<br>
+<br>
+in %
 :::
 
 <div class="ct-golden-section box">
@@ -185,7 +188,7 @@ März 2017: Erweiterung
 
 ### Responsive Tabellen
 * [Responsive Tables](http://zurb.com/playground/projects/responsive-tables/index.html)
-* [Responsive Tables — SitePoint](http://www.sitepoint.com/responsive-solutions-for-feature-comparison-tables/)
+* [Responsive Tables — SitePoint](http://www.sitepoint.com/responsive-solutions-for-feature-comparison-tables/)
 * [Responsive Table – css-tricks.com](https://css-tricks.com/examples/ResponsiveTables/responsive.php)
 * [Responsive & Accessible](http://codepen.io/pixelchar/pen/rfuqK)
 * [Responsive Tables](http://codepen.io/JasonAGross/pen/rjmyx)

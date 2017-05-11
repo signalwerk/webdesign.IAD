@@ -108,7 +108,7 @@ Eine relationale Datenbank dient zur elektronischen Datenverwaltung in Computers
 SQL ist eine Datenbanksprache zur Definition von Datenstrukturen in relationalen Datenbanken sowie zum Bearbeiten (Einfügen, Verändern, Löschen) und Abfragen von darauf basierenden Datenbeständen.
 
 Quellen:
-* [Relationale Datenbank – Wikipedia](https://de.wikipedia.org/wiki/Relationale_Datenbank)
+* [Relationale Datenbank – Wikipedia](https://de.wikipedia.org/wiki/Relationale_Datenbank)
 * [SQL – Wikipedia](https://de.wikipedia.org/wiki/SQL)
 
 :::
@@ -149,7 +149,7 @@ März 2017: Erweiterung
 
 ### REST – GET – POST – GraphQL
 * [Representational State Transfer – Wikipedia](https://de.wikipedia.org/wiki/Representational_State_Transfer)
-* [Hypertext Transfer Protocol - Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods)
+* [Hypertext Transfer Protocol - Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods)
 * [GraphQL](http://graphql.org/)
 
 ### REST-Applikation (Beispiel)
