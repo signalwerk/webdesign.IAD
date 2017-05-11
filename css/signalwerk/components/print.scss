@@ -143,6 +143,10 @@ html {
     padding-top: 0.4em;
     border-top: 0.1rem solid black;
     font-size: map-get($fontSizesPrint, small) * .9;
+
+    // random correction
+    margin-right: 5.5mm;
+    width: 107.5mm;
   }
 
 }
