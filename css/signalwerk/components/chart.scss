@@ -17,6 +17,11 @@ $cSeriesBG: #f7f7f7;
         -webkit-print-color-adjust: exact;
         background-color: #e3e3e3;
     }
+
+    &:after {
+        display: inline;
+        height: 0;
+    }
 }
 
 .chartist-legend {
@@ -53,13 +58,24 @@ $cSeriesBG: #f7f7f7;
     stroke-linecap: round;
 }
 
+.ct-series-a .ct-bar {
+    @media print {
+        stroke: rgb(0,0,0);
+    }
+    stroke: $cSeriesA;
+}
 .ct-series-a .ct-line {
     @media print {
         stroke: rgb(0,0,0);
     }
     stroke: $cSeriesA;
-    /* stroke: rgb(0,0,0,.2); */
-    /* stroke-dasharray: 2px; */
+}
+
+.ct-series-b .ct-bar {
+    @media print {
+      stroke: rgb(150,150,150);
+    }
+    stroke: $cSeriesB;
 }
 
 .ct-series-b .ct-line {
@@ -68,7 +84,6 @@ $cSeriesBG: #f7f7f7;
         stroke-dasharray: 8,7;
     }
     stroke: $cSeriesB;
-    /* stroke: rgb(0,0,0,.2); */
 }
 
 .ct-series-c .ct-line {
