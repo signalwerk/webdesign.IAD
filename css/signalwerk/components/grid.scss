@@ -33,12 +33,21 @@
   // Setting columns
   // Setting columns
 
-  @for $i from 1 through 8 {
-    .col_#{$i}of8 {
-      @include span($i of 8);
+  // @for $i from 1 through 8 {
+  //   .col_#{$i}of8 {
+  //     @include span($i of 8);
+  //   }
+  //   .col_#{$i}of8_last {
+  //     @include span(last $i of 8);
+  //   }
+  // }
+
+  @for $i from 1 through 12 {
+    .col_#{$i}of12 {
+      @include span($i of 12);
     }
-    .col_#{$i}of8_last {
-      @include span(last $i of 8);
+    .col_#{$i}of12_last {
+      @include span(last $i of 12);
     }
   }
 
