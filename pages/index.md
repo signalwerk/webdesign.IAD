@@ -35,7 +35,7 @@ title: Inhalt
 
 
 ### Fonts · Tag 6
-* [Rückmeldung · Adressregister](/marks/)
+<!-- * [Rückmeldung · Adressregister](/marks/) -->
 * [Gestaltung · Fonts](/fonts/)
 * [Technologie · Fontdarstellung](/fontrendering/)
 
@@ -43,7 +43,20 @@ title: Inhalt
 ### Lesen · Tag 7
 * [Gestaltung · Detailtypografie & Mengentext](/typography/)
 * [Technologie · Lizenzen & Rechte](/law/)
-* [Feedback · Adressregister](/marks/)
+
+
+### Neue Welten · Tag 8
+* [Gestaltung · Geräte und deren Bedienung](/interface/)
+<!-- * [Rückmeldung · Gerät](/marks/) -->
+
+### Verbinden & Verknüpfen · Tag 9
+* [Gestaltung · Einbinden von externen Inhalten](/embedding/)
+* [Aufgabe · Shop](/architects/)
+
+
+### Others
+* [Others · Linkliste](/additions/)
+
 
 
 
