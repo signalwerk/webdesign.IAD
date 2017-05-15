@@ -131,3 +131,9 @@ hr {
     margin: 1rem 0;
     padding: 0;
 }
+
+hr.thick {
+  border-top: 0.5em solid #ccc;
+  margin: 0.2rem 0;
+
+}
