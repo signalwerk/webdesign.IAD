@@ -50,8 +50,12 @@ title: Inhalt
 <!-- * [Rückmeldung · Gerät](/marks/) -->
 
 ### Verbinden & Verknüpfen · Tag 9
-* [Gestaltung · Einbinden von externen Inhalten](/embedding/)
-* [Aufgabe · Shop](/architects/)
+* [Einbinden von externen Inhalten](/embedding/)
+* [Aufgabe · Shop](/shop/)
+
+### Inhalt & Prototype · Tag 10
+* [Redaktions- und Authoren-Tools (CMS)](/tools/)
+
 
 
 ### Others

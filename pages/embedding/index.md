@@ -1,7 +1,7 @@
 ---
-title: Gestaltung · Einbinden von externen Inhalten
+title: Einbinden von externen Inhalten
 ---
-# Gestaltung · Einbinden von externen Inhalten
+# Gestaltung · <br>Einbinden von externen Inhalten
 
 ::: TOC
 **Content**
@@ -16,7 +16,7 @@ title: Gestaltung · Einbinden von externen Inhalten
 Eine der Grundideen des World Wide Webs ist das Verknüpfen von Inhalten. Die Verbindung der verschiedenen Inhalte oder Inhaltsebenen verläuft oft über eine konventionelle Verlinkung auf eine externe Seite. Dies muss jedoch nicht zwangsläufig so sein, sondern man kann auch fremde oder externe Inhalte live in seine Website einbinden lassen. Das hat den Vorteil, dass Inhalte durch die externe Quelle auch aktualisiert werden können, ohne dass die Site, in der die externen Inhalte zusammen gezogen werden, aktualisiert werden muss.
 
 ### Hotlinks
-Technisch ist ein sogenanntes hotlinking (inline linking) die wohl einfachste Form um externe Inhalte einzubinden. Man stellt in seiner Seite anstatt Bilder vom eigenenen Server, solche von Webservern dritter dar. Rechtlich betrachtet kopiert man also nicht allfällig urheberrechtlich geschütztes Material, sondern bindet die Originaldatei lediglich in seiner Site ein. Aus rechtlicher Sicht ist dies meist unbedenklich, sollte aber wo möglich – und vom Urheber nicht ausdrücklich so gewünscht – wohl eher vermieden werden. Der Urheber kann sich auch gegen diese Praxis wehren, indem er prüft, von welcher Seite das Bild erfragt wird (HTTP referer) und wenn die Anfrage nicht von der eigenen Seite komm, die Auslieferung der Daten verweigert.
+Technisch ist ein sogenanntes hotlinking (inline linking) die wohl einfachste Form um externe Inhalte einzubinden. Man stellt in seiner Seite anstatt Bilder vom eigenenen Server, solche von Webservern dritter dar. Rechtlich betrachtet kopiert man also nicht allfällig urheberrechtlich geschütztes Material, sondern bindet die Originaldatei lediglich in seiner Site ein. Aus rechtlicher Sicht ist dies meist unbedenklich, sollte aber wo möglich – und vom Urheber nicht ausdrücklich so gewünscht – wohl eher vermieden werden. Der Urheber kann sich auch gegen diese Praxis wehren, indem er prüft, von welcher Seite das Bild erfragt wird (http referer) und wenn die Anfrage nicht von der eigenen Seite komm, die Auslieferung der Daten verweigert.
 
 
 <br>
@@ -26,12 +26,12 @@ Technisch ist ein sogenanntes hotlinking (inline linking) die wohl einfachste Fo
 
 
 
-::::: grid fullsize
+::::: grid
 ![Bilder Hotlink](./img/hotlink.svg)
 :::::
 
 
-::::: grid fullsize
+::::: grid
 :::: col_6of12
 ### Bilder vom Website-Betreiber
 Bei den meisten Websites kommen die Seite und die
@@ -74,7 +74,7 @@ Unter Widgets versteht man meist Inofrmationen, die spezifische Daten von Dritta
 ### RSS-Feed
 Eine News-Portal kann die Anreisser zum Beispiel als RSS-Feed veröffentlichen.
 :::::
-Unter feeds versteht man meiste eine Datei, die dann neu erzeugt wird, wenn ein weiteres Element hinzu gekommen ist. Dies wird vor allem für News-Portale (Zeitungen, Blogs, ...) angeboten. Dabei wird eine RSS (Rich Site Summary) vom Site-Betreiber in Form einer XML-Datei angeboten. Eine externe Website (oder andere News-Clients) können dann in periodischen Abständen nach einer neuen Datei fragen und erhalten dann die aktualisierten Inhalte.
+Unter Feeds versteht man meiste eine URL (Datei), deren Inhalt dann neu erzeugt wird, wenn ein weiteres Element hinzu gekommen ist. Dies wird vor allem für News-Portale (Zeitungen, Blogs, ...) angeboten. Dabei wird eine RSS (Rich Site Summary) vom Site-Betreiber in Form einer XML-Datei angeboten. Eine externe Website (oder andere News-Clients) können dann in periodischen Abständen nach einer neuen Datei fragen und erhalten dann die aktualisierten Inhalte.
 
 <br>
 
@@ -84,19 +84,23 @@ Unter feeds versteht man meiste eine Datei, die dann neu erzeugt wird, wenn ein 
 
 <div class='header'></div>
 
-## Technik der iframes
+## Technik der Inlineframess (iframe)
 Technisch funktionieren viele externe Komponenten (Elemente) so, das die fremden Inhalte vom Server des Anbieters eingebunden werden. Dies geschieht oft über iframes. Ein Inlineframe (iframe) ist ein Element in einer Website, welches wiederum eine vollständige HTML-Site enthält (transkludiert). Es ist also wie ein separat abgeschlossener Container in einer Website. Das iframe ist vollständig eigenständig und könnte auch als einzelne Website betrachtet werden, obwohl darin meist nur kleinere Teile enthalten sind (also beispielsweise ein Facebook-Button). Wie die iframes in die Website eingefügt werden ist nicht immer gleich. Zum Teil wird gleich das iframe in die HTML-Datei eingefügt, zum Teil sind es kleine JavaScript-Befehle, die dann an der gegebenen Stelle ein iframe erstellt.
 Technisch kann man externe Inhalte auch ohne iframes einbinden, dies ist jedoch oft die einfachste Lösung, da dann die Website und die externen Inhalte klar getrennt sind und sich gegenseitig nicht beeinflussen. Wenn nur Daten von einem externen Anbieter bezogen werden, also zum Beispiel API-Schnittstellen oder Feeds, dann erfolgt die Darstellung meist ohne iframes, sondern direkt in der Website, ohne dem abschottenden Container des iframes.
 
+<br>
 <br>
 <br>
 
 ::: margin compact
 Ein iframe ist eine vollständige HTML-Seite in einer vollständigen HTML-Seite.
 :::
+<br>
+<br>
 
+::: grid
 ![iframe-Technik](./img/iframe.svg)
-
+:::
 
 
 <div class='header'></div>
@@ -104,7 +108,7 @@ Ein iframe ist eine vollständige HTML-Seite in einer vollständigen HTML-Seite.
 
 ## Social Media Buttons
 :::: margin compact
-::: grid w70p upscale
+::: grid w60p upscale
 ![Social Media Buttons](./img/socaialmedia_buttons.png)
 :::
 ### Buttons der Anbieter
@@ -118,24 +122,29 @@ Eine sehr weit verbreitete Möglichkeit, fremde Inhalte in die eigene Site ein z
 
 ### Datenschutz (Privacy)
 :::: margin compact
-::: grid w90p
+::: grid w60p upscale
 ![Social Media Buttons Deaktiviert](./img/socaialmedia_buttons_enable.png)
+:::
 ### Aktivieren bei bedarf
 Gewisse Sites ermöglichen ein «einschalten» von Buttons, wenn dies benötigt/gewünscht werden.
-:::
 ::::
 Da die Buttons inhalte von externen Quellen (der Plattform) beziehen, kann die Plattform dadurch auch verfolgen (tracken), welche Website von wie vielen Personen besucht wird. Zudem kann, wenn der Besucher bei der Plattform angemeldet ist, das Surfverhalten der jeweiligen Person der Plattform genauer untersucht werden. Dieses Verhalten sind sich die Besucher einer Website meist gewohnt und es wird im allgemeinen kein Anstoss daran genommen. Bei sensiblen Daten oder wenn man seinen Seitenbesucher schützen möchte, so kann man die Social Media Buttons auch so gestallten, dass die erst auf Wunsch des Benutzers (nach zusätzlichem Klick) geladen werden und somit nur bei bewusster Handlung ein Tracking erlauben.
 
 <br>
 
 ### Zähler vom Server
+:::: margin compact
+::: grid w70p upscale
+![Social Media Buttons Serverabfrage](./img/socaialmedia_buttons_server.png)
+:::
+::::
 Auch kann der Server die Zahlen bei den Sozialen Netzwerken
 abfragen und dann dem Besucher vom eigenen Server übermitteln.
 So bleibt der Besucher gegenüber dem Netzwerk geschützt.
 
 <br>
 
-![Social Media Buttons Serverabfrage](./img/socaialmedia_buttons_server.png)
+
 
 
 
@@ -147,7 +156,7 @@ So bleibt der Besucher gegenüber dem Netzwerk geschützt.
 Obwohl YouTube und Vimeo etwa die selben Funktionen bieten, ist YouTube doch etwa 150× grösser als vimeo.
 YouTube dominiert den Markt klar.
 :::
-Videos werden bei professionellen Video-Portalen als sogenannte Streams ausgeliefert. Dies hat den Vorteil, dass sowohl die Bandbreite entsprechend der Güte der Verbindung (Geschwindigkeit) angepasst werden kann, wie auch die Abspielposition frei angesprungen werden kann (Vorspulen). Diese Möglichkeiten sind bei einer selbst gehosteten Video-Datei keine Selbstverständlichkeit. Meist liegt dann das Video nur in einer Version auf dem Server vor und ist somit nur für genau eine Bandbreite optimiert, die jedoch nicht zwingend zum Client passen muss. Dazu kommt, dass das Video vom eigenen Server meist als ganze Datei zum Browser übertragen wird, was zur Folge hat, dass nur an Positionen gesprungen werden kann, die schon vollständig geladen sind. Ein beliebiges vorspringen ist somit nicht gegeben, was den User unter umständen irritiert.
+Videos werden bei professionellen Video-Portalen als sogenannte Streams ausgeliefert. Dies hat den Vorteil, dass sowohl die Bandbreite entsprechend der Güte der Verbindung (Geschwindigkeit) angepasst wird, wie auch die Abspielposition frei angesprungen werden kann (Vorspulen). Diese Möglichkeiten sind bei einer selbst gehosteten Video-Datei keine Selbstverständlichkeit. Meist liegt dann das Video nur in einer Version auf dem Server vor und ist somit nur für genau eine Bandbreite optimiert, die jedoch nicht zwingend zum Client passen muss. Dazu kommt, dass das Video vom eigenen Server meist als ganze Datei zum Browser übertragen wird, was zur Folge hat, dass nur an Positionen gesprungen werden kann, die schon vollständig geladen sind. Ein beliebiges vorspringen ist somit nicht gegeben, was den User unter umständen irritiert.
 
 
 
@@ -187,16 +196,16 @@ Massenmarkt angesprochen.
 
 
 <br>
-<br>
 
+::: margin compact
 ### Kommentarkultur
 Auf YouTube gibt es zum Teil eine
 eher bedenkliche Kommentarkultur mit beleidigungen und unpassenden
 Äusserungen. Dies kann je nach Video und Kontext unerwünscht sein.
 
-<br>
+:::
 
-::: grid w80p
+::: grid w60p
 ![Youtube](./img/youtube_comment.png)
 :::
 
@@ -211,7 +220,7 @@ eher bedenkliche Kommentarkultur mit beleidigungen und unpassenden
 ### Geo-Daten
 Die meisten Karten-Services ermöglichen das Anreichern des Kartenmaterials mit zusätzlichen Daten.
 :::
-Karten sind ein häufiger Anwendungsfall in dem man sich auf einen externen Service verlässt. Die Landkarte wird in vielen kleinen Teilbildern an den Browser übermittelt und dann im Browser wieder zusammen gesetzt. Dies ist technisch aufwändig und die Bilder benötigen für die ganze Welt sehr viel Speicherplatz. Auch kann es immer mal wieder geografische Veränderungen geben, die ein update des Kartenmaterials erforderlich machen. Um diese Probleme zu umgehen, gibt es diverse Anbieter von Karten-Diensten. Diese ermöglichen dann meist auch über zusätzliche Schnittstellen das einbinden von zusätzlichen Informationen auf den Karten, die vom Benutzer definiert werden können. Wird ein speziefisches Design oder eine Corporate-Farbgebung benötigt, können die Karten auch mit speziellen Programmen und den aktuellsten Daten von OpenStreetMap erzeugt werden und dann auf dem eigenen Server gehostet werden. Dies ist meist jedoch eine Ausnahme.
+Karten sind ein häufiger Anwendungsfall in dem man sich auf einen externen Service verlässt. Die Landkarte wird in vielen kleinen Teilbildern an den Browser übermittelt und dann im Browser wieder zusammen gesetzt. Dies ist technisch aufwändig und die Bilder benötigen für die ganze Welt sehr viel Speicherplatz. Auch wird es immer wieder Veränderungen geben, die ein update des Kartenmaterials erforderlich machen. Um diese Probleme zu umgehen, gibt es diverse Anbieter von Karten-Diensten. Diese ermöglichen dann meist auch über zusätzliche Schnittstellen das einbinden von zusätzlichen Informationen auf den Karten, die vom Benutzer definiert werden können. Wird ein speziefisches Design oder eine Corporate-Farbgebung benötigt, können die Karten auch mit speziellen Programmen und den aktuellsten Daten von OpenStreetMap erzeugt werden und dann auf dem eigenen Server gehostet werden. Dies ist meist jedoch eine Ausnahme.
 
 
 ### Style
@@ -220,17 +229,11 @@ ein spezieller Stil benötigt, kann dies mit Drittanbietern realisiert werden.
 
 <br>
 
-::::: grid fullsize
-:::: col_6of12
 ![Karte mit eigenem Stiel](./img/map_styleA.png)
 
-::::
-:::: col_6of12_last
+<br>
+
 ![Karte mit eigenem Stiel](./img/map_styleB.png)
-
-
-::::
-:::::
 
 
 
@@ -238,7 +241,7 @@ ein spezieller Stil benötigt, kann dies mit Drittanbietern realisiert werden.
 <div class='header'></div>
 
 
-## Bandbreite und Kosten – wer liefert die grossen Brocken?
+## Einbinden statt zahlen
 Ein Anbieter von Servern bezahlt nebst der effektiven Hardware und dem Stromverbrauch vor allem für das Datenvolumen, das von einem Webserver übertragen wird. Dieser Server-Anbieter kann entweder mit dem Site-Betreiber eine Vereinbarung haben, dass ein gewisses Datenvolumen pro Zeiteinheit frei ist (eventuell sogar unbeschränkt) oder der Serverbetreiber verrechnet der Website den effektiven Verbrauch. Wenn nun also externe Inhalte eingebunden werden, die nicht über den Server des Websitebetreibers laufen, entstehen dem Betreiber Minderkosten. Umgekehrt entstehen dafür beim Serverbetreiber, auf dem die externen Inhalte gespeichert sind, Mehrkosten durch den erhöhten Datenverkehr. Dies kann vor allem bei grossen Dateien, wie zum Beispiel bei Videos, ein nicht unerheblicher Kostenfaktor sein.
 Bei kleinen Sites, die wenige hundert Zugriffe pro Tag haben, ist die Bandbreite meist kein Thema und auch kein Kostenfaktor.
 
@@ -253,7 +256,7 @@ Bei kleinen Sites, die wenige hundert Zugriffe pro Tag haben, ist die Bandbreite
 ![amazon cloud preise](./img/cloude_transfer_price.png)
 
 
-Preisbeispiel: [amazon](https://aws.amazon.com/rds/pricing/)
+[Preise amazon](https://aws.amazon.com/rds/pricing/)
 
 
 ::::
@@ -261,9 +264,7 @@ Preisbeispiel: [amazon](https://aws.amazon.com/rds/pricing/)
 
 ![rackspace cloud preise](./img/cloude_server_price.png)
 
-
-
-Preisbeispiel: [rackspace](https://www.rackspace.com/cloud/servers)
+[Preise rackspace](https://www.rackspace.com/cloud/servers)
 
 ::::
 :::::
@@ -328,26 +329,25 @@ Mai 2017: Erweiterung
 
 
 ### Hotlinks
-* http://altlab.com/hotlinking.html
-* http://www.htaccesstools.com/hotlink-protection/
+* [What is Hotlinking?](http://altlab.com/hotlinking.html)
+* [Prevent hotlinking of images](http://www.htaccesstools.com/hotlink-protection/)
 
 ### Privacy
-* http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm
-* http://panzi.github.io/SocialSharePrivacy/
-* https://github.com/heiseonline/shariff
+* [EU Gesetz für cookies](http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm)
+* [Sichere Social Media Buttons](http://panzi.github.io/SocialSharePrivacy/)
+* [Sichere Social Media Buttons auf Server](https://github.com/heiseonline/shariff)
 
 ### Social Media Buttons
-* https://about.twitter.com/resources/buttons
-* https://developers.facebook.com/docs/plugins/like-button
-* http://sebastiangreger.net/2014/03/privacy-aware-design-social-media-buttons/
+* [Twitter Publish](https://about.twitter.com/resources/buttons)
+* [Facebook Buttons](https://developers.facebook.com/docs/plugins/like-button)
 
 ### Karten
-* https://www.openstreetmap.org/
-* https://www.google.ch/maps
-* http://leafletjs.com/
-* https://www.mapbox.com/guides/getting-started-studio/
-* https://www.mapbox.com/tilemill/
+* [OpenStreetMap](https://www.openstreetmap.org/)
+* [Google Maps](https://www.google.ch/maps)
+* [Leaflet – Maps und daten](http://leafletjs.com/)
+* [Karten mit diversen Stilen](https://www.mapbox.com/guides/getting-started-studio/)
+* [Kartenstile selber erstellen](https://www.mapbox.com/tilemill/)
 
 ### API & Streams
-* https://de.wikipedia.org/wiki/RSS
-* http://transport.opendata.ch/
+* [RSS – Wikipedia](https://de.wikipedia.org/wiki/RSS_(Web-Feed))
+* [Transport API](http://transport.opendata.ch/)
