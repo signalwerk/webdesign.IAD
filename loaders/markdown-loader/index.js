@@ -6,6 +6,9 @@ var frontMatter = require('front-matter')
 var markdownIt = require('markdown-it')
 var hljs = require('highlight.js')
 var objectAssign = require('object-assign')
+var path = require('path');
+var loaderUtils = require('loader-utils');
+
 
 var highlight = function (str, lang) {
   if ((lang !== null) && hljs.getLanguage(lang)) {
@@ -23,11 +26,17 @@ var highlight = function (str, lang) {
   return ''
 }
 
-var md = markdownIt({
+var md = (linkPrefix, shouldPrefix) => markdownIt({
   html: true,
   linkify: false,
   typographer: true,
   highlight,
+  replaceLink: (link) => {
+    if (shouldPrefix && path.isAbsolute(link)) {
+      return linkPrefix + link
+    }
+    return link
+  },
 })
 
   .use(require('markdown-it-sub'))
@@ -36,6 +45,7 @@ var md = markdownIt({
   .use(require('markdown-it-abbr'))
   .use(require('markdown-it-attrs'))
   .use(require('markdown-it-include'), './pages/')
+  .use(require('markdown-it-replace-link'))
 
 
   .use(require('markdown-it-container'), 'classname', {
@@ -68,8 +78,13 @@ var md = markdownIt({
 
 module.exports = function (content) {
   this.cacheable()
+
+  const query = loaderUtils.parseQuery(this.query)
+  const linkPrefix = query.config.linkPrefix || ''
+  const shouldPrefix = query.shouldPrefix
+
   const meta = frontMatter(content)
-  const body = md.render(meta.body)
+  const body = md(linkPrefix, shouldPrefix).render(meta.body)
   const result = objectAssign({}, meta.attributes, {
     body,
   })

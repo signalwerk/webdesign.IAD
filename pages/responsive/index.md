@@ -142,7 +142,7 @@ Tabellen können bei kleinen Bildschirmen schnell zu breit wachsen. Es gibt dive
 
 
 ::::: grid fullsize space2
-![Responsive Tabelle](./img/table.svg)
+![Responsive Tabelle](./img/Table.svg)
 :::::
 
 

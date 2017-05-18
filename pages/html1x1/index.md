@@ -628,7 +628,14 @@ Mehrere Definitionen innerhalb einer CSS-Datei, die auf den selben Tag sich ausw
 * Die letzt genannten Attribute einer Regel überschreiben die vorangehenden Attribute in anderen Regeln
 * Eine spezifischere CSS-Regel überschreibt eine generellere Regel
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 

@@ -240,7 +240,7 @@ März 2017: Erweiterung
 
 ### Print & CSS
 * [CSS Design: Going to Print](http://alistapart.com/article/goingtoprint/)
-* [Referenzen - R&G Metallbau AG](https://web.archive.org/web/20080618200258/[Referenzen - R&G Metallbau AG](http://www.rg-metallbau.ch/referenzen-n6-i387-p1-sD.html)) (Beispiel)
+* [Referenzen - R&G Metallbau AG](https://web.archive.org/web/20080618200258/http://www.rg-metallbau.ch/referenzen-n6-i387-p1-sD.html) (Beispiel)
 
 ### Farbwahl/Farbenblind
 * [ColorBrewer: Color Advice for Maps](http://colorbrewer2.org/)
