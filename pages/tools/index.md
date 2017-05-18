@@ -13,11 +13,10 @@ title: Redaktions- und Autoren-Tools (CMS)
 Bei HTML-Editoren handelt es sich um Programme, die meist lokal installiert werden und die dann eine visuelle Editierung von HTML-Seiten ermöglichen. Dabei gibt es meist auch die Möglichkeit von Hand zusätzlich in den Code ein zu greifen. Mit solchen Editoren lassen sich einfache Seiten erstellen oder aber Vorlagen realisieren, die später für eine Websystem (CMS) verwendet werden können. Meist ist die Komplexität für eine grössere Website mit solch einem Editor unüberschaubar und es müssen weitere Programme eingesetzt werden.
 
 ### Bekannte Editoren:
-
-* [Adobe Edge Animate](https://www.adobe.com/products/edge-animate.html)
-* [Adobe Muse](http://muse.adobe.com/)
-* [Adobe Dreamweaver](http://www.adobe.com/products/dreamweaver.html)
-* [Google Web Designer](https://www.google.com/webdesigner/)
+* Adobe Edge Animate
+* Adobe Muse
+* Adobe Dreamweaver
+* Google Web Designer
 
 <br>
 <br>
@@ -57,7 +56,6 @@ Quelle: [wikipedia](http://de.wikipedia.org/wiki/WordPress)
 Ein Content Management System dient zur Verwaltung von Websites und zum betreuen von Inhalten auf einer Seite. Das System versucht möglichst die Technologie vor dem Benutzer zu verbergen und ermöglicht es auch Laien, ein schnelles und einfaches Editieren von Websites zugänglich zu machen.
 Das CMS wird meist von einem Programmierer installiert, kann aber später von einem Laien angewendet werden. Weltweit gesehen ist WordPress das wohl am häufigsten verwendete CMS. Andere verbreitete CMS sind:
 
-* WordPress – Blogging und Websites
 * Magento – Shop-System
 * Ghost – Blogging
 * Drupal – Websites
@@ -117,7 +115,8 @@ Von medienneutralen Daten spricht man meist dann, wenn man den Vorliegenden Inha
 
 ### JPG/PNG/TIFF/PDF – Was ist das richtige?
 Grundsätzlich ist immer das Dateiformat, welches die wenigsten Kompromisse punkto inhaltlicher Wiedergabe ermöglich, zu bevorzugen. Das heisst, dass ein Bild ohne Kompression oder mit verlustfreier Kompression einem Bild mit verlustbehafteter Kompression zu bevorzugen ist. Auch sollten – wo vorhanden – Vektor-Daten eingesetzt werden und nicht Pixelbilder davon erstellt werden müssen.
-Die Ausgabe für den Browser ist meist mit Pixel-Daten, die eine verlustbehaftete Kompression besitzen. Jedoch kann dann jederzeit genau gesteuert werden, wie stark eine Kompression sein soll und welches Dateiformat für die Ausgabe (JPG/PNG/GIF) verwendet werden kann. Zum Teil ist es aufgrund der eingesetzten Server-Technologie nicht möglich Vektor-Formate (wie zum Beispiel in PDF) zu verarbeiten. Dies ist jedoch mit einem Techniker zu klären.
+
+Die Ausgabe für den Browser ist meist mit Pixel-Daten, die eine verlustbehaftete Kompression besitzen. Jedoch kann dann jederzeit genau gesteuert werden, wie stark eine Kompression sein soll und welches Dateiformat für die Ausgabe (JPG/PNG/GIF) verwendet werden kann.
 
 ### Farbprofile
 Grundsätzlich sollte in jeder Medienproduktion ein Bild (oder Video) in den Metadaten Informationen enthalten, wie die Farben profiliert wurden. Für Bilder geschieht dies heute meist über ein ICC-Farbprofiel (International Color Consortium). Bei der Verwendung von Bildern im Web wird an den Browser meist eine Bilddatei übergeben, die kein Farbprofil enthält, da man die Übertragungszeit möglichst klein halten möchte und somit diese Informationen nicht mit schickt. Da die Information fehlt, wird in den meisten Fällen davon ausgegangen, dass das Bild sRGB (oder ähnlich) kodiert ist. Somit muss auf dem Server eine Farbkonvertierung vom ursprünglichen Farbraum, welcher als ICC vorliegt, zum Zielfarbraum sRGB konvertiert werden. Dieser Vorgang ist nicht auf allen Servern möglich.
@@ -132,12 +131,8 @@ Zudem sollte, wo immer möglich, das Layout und die Formatierung des Textes nich
 ::: margin compact
 ### squarespace.com
 Suarespace ist eine webbasiertes Content Management System (CMS), das einen Homepage-Baukasten bietet um einfache Websites oder Blogs zu erstellen und zu hosten. Der Service ermöglicht es ohne Vorkentnisse eine Website zu erstellen.
-Squarespace ist in diesem Markt (Software as a service) wohl der Weltführer.
+Squarespace ist in diesem Markt (Software as a service) wohl der Weltführer. Es gibt aber auch ander Anbieter.
 
-Weitere grosse Anbieter:
-* [WiX](http://www.wix.com/)
-* [Jimdo](http://www.jimdo.com/)
-* [weebly](http://www.weebly.com/)
 :::
 Seit einigen Jahren gibt es Web-Dienste, mit denen man im Browser Webseiten gestalten und bearbeiten kann. Diese Editoren weisen meist einen sehr webgerechten Zugang zur Gestaltung auf und die dort realisierten Layouts sind meist eine hervorragende Vorlage um später von einem Programmierer weiter bearbeitet zu werden, oder aber bieten auch die Funktion, die ganze Seite zu erstellen und zu publizieren.
 Es gibt diverse Anbieter und viele verschiedene Services. Die meisten können in einem Grundpacket ohne Bezahlung benutzt werden und stellen dazu einen bezahlten Hosting-Service zur Verfügung. Je nach Anbieter kann Funktionalität und Schwerpunkt sehr stark variieren.
@@ -223,7 +218,7 @@ Schwankungen und Entwicklungen bei den Besucherzahlen können über längere Zei
 
 
 ![Analytics Browser](./img/analytics_browser.png)
-Technologische Entscheide können aufgrund von Browser- und Geräte-Statistiken fundiert begründet werden..
+Technologische Entscheide können aufgrund von Browser- und Geräte-Statistiken fundiert begründet werden.
 
 ::::
 
@@ -245,9 +240,14 @@ sh@signalwerk.ch
 +41 78 744 37 38
 
 #### Dokumentgeschichte
-Juni 2014: Erstellung
+Juni 2014: Erstellung  
 November 2015: Erweiterung  
 Mai 2017: Erweiterung
+
+
+#### Digitale Version
+signalwerk.github.io/webdesign.IAD
+
 
 :::
 
@@ -256,28 +256,35 @@ Mai 2017: Erweiterung
 
 
 ### Content Management System
-* http://wordpress.org/
-* https://www.drupal.org/
-* http://typo3.org/
-* http://www.indexhibit.org/
+* [WordPress](http://wordpress.org/)
+* [Magento](https://magento.com/)
+* [Ghost](https://ghost.org/)
+* [Drupal](https://www.drupal.org/)
+* [TYPO3](http://typo3.org/)
+* [NEOS](https://www.neos.io/)
+* [Indexhibit](http://www.indexhibit.org/)
 
 ### HTML-Editoren
-* https://creative.adobe.com/products/animate
-* http://www.adobe.com/products/dreamweaver.html
-* https://creative.adobe.com/products/code
-* https://creative.adobe.com/products/reflow
-* http://www.google.ch/webdesigner/
+* [Adobe Edge Animate](https://www.adobe.com/products/edge-animate.html)
+* [Adobe Muse](http://muse.adobe.com/)
+* [Adobe Dreamweaver](http://www.adobe.com/products/dreamweaver.html)
+* [Google Web Designer](https://www.google.com/webdesigner/)
+
 
 ### Web-Editoren
-* https://webflow.com
-* http://www.squarespace.com/
-* http://www.shopify.com/
-* http://www.webydo.com/
+* [Webflow](https://webflow.com)
+* [Squarespace](http://www.squarespace.com/)
+* [Shopify (Shop)](http://www.shopify.com/)
+* [Webydo](http://www.webydo.com/)
+* [WiX](http://www.wix.com/)
+* [Jimdo](http://www.jimdo.com/)
+* [weebly](http://www.weebly.com/)
+
 
 ### Medienneutral
-* https://de.wikipedia.org/wiki/ICC-Profil
-* http://www.pagina-online.de/xml-hintergruende/pagina-das-kompendium/themenkomplex-i-cross-media/ohne-sie-geht-nichts-medienneutrale-daten/
+* [ICC-Profil – Wikipedia](https://de.wikipedia.org/wiki/ICC-Profil)
+* [Medienneutrale Daten](http://www.pagina-online.de/xml-hintergruende/pagina-das-kompendium/themenkomplex-i-cross-media/ohne-sie-geht-nichts-medienneutrale-daten/)
 
 ### Statistik
-* http://piwik.org/
-* https://analytics.google.com/
+* [piwik – OpenSource](http://piwik.org/)
+* [Google Analytics](https://analytics.google.com/)
