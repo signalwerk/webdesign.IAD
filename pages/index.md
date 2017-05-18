@@ -1,11 +1,20 @@
 ---
 title: Inhalt
 ---
-# Webdesign
-<small>Dipl. Gestalter/in HF, Kommunikationsdesign · Signalwerk GmbH – Stefan Huber · 2017</small>
+# Webdesign · Grundlagen
+<small>Signalwerk GmbH – Stefan Huber · 2017 · [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</small>
 
-::: TOC
-**Content**
+
+<br>
+<br>
+
+### ACHTUNG!!!
+**Die nachfolgenden Seiten wurden für den Ausdruck optimiert!  
+Als Website nur beschränkt geeignet!**
+
+<br>
+<br>
+
 ### Grundlagen · Tag 1
 * [Ziele & Zeit](/ziele/)
 * [Aufgabe · Fontvorstellung](/fontvorstellung/)
@@ -55,13 +64,13 @@ title: Inhalt
 
 ### Inhalt & Prototype · Tag 10
 * [Redaktions- und Authoren-Tools (CMS)](/tools/)
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<!--
 
 ### Others
 * [Others · Linkliste](/additions/)
-
-
-
-
-:::
+ -->
