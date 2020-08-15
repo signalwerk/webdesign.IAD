@@ -29,3 +29,5 @@ node_modules
 .sass-cache/
 /public
 /pages/fontvorstellung/HF_2017.md
+ci/.ssh/id_rsa
+ci/.ssh/secret.key
