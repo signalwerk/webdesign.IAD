@@ -19,8 +19,9 @@ Als Website nur beschränkt geeignet!**
 * [Ziele & Zeit](/ziele/)
 * [Aufgabe · Fontvorstellung](/fontvorstellung/)
 * [Aufgabe · Adressregister](/adressregister/)
-* [Gestaltung · Paperprototype & Screensizes](/paperandscreen/)
-* [Technologie · Grundlagen](/grundlagen/)
+* [Gestaltung · Paperprototype](/paperprototype/)
+* [Gestaltung · Screensizes ↗](https://signalwerk.github.io/learn.interaction/articles/screens/)
+* [Technologie · Grundlagen ↗](https://signalwerk.github.io/learn.interaction/articles/internet-technology/)
 
 ### Raster · Tag 2
 * [Gestaltung · Raster](/grid/)
@@ -51,7 +52,7 @@ Als Website nur beschränkt geeignet!**
 
 ### Lesen · Tag 7
 * [Gestaltung · Detailtypografie & Mengentext](/typography/)
-* [Technologie · Lizenzen & Rechte](/law/)
+* [Technologie · Lizenzen & Rechte ↗](https://signalwerk.github.io/learn.interaction/articles/legal/)
 
 
 ### Neue Welten · Tag 8
