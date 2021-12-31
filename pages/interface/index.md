@@ -593,6 +593,8 @@ April 2017: Erweiterung
 
 ## Weiterführende Informationen
 
+## History of mobile
+* [Springboard: the secret history of the first real smartphone (Full Documentary)](https://www.youtube.com/watch?v=b9_Vh9h3Ohw)
 
 ### Geräte im Internet
 * [Device-Agnostic](http://trentwalton.com/2014/03/10/device-agnostic/)
